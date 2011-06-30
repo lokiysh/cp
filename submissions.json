@@ -5950,6 +5950,24 @@
     ],
     "timestamp": "Nov/07/2019 01:25"
   },
+  "CF672286": {
+    "contest_id": 94,
+    "language": "Java 6",
+    "path": "codeforces/94/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Friends",
+    "problem_url": "https://codeforces.com/contest/94/problem/B",
+    "submission_id": "CF672286",
+    "submission_url": "https://codeforces.com/contest/94/submission/672286",
+    "tags": [
+      "graphs",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/30/2011 21:22"
+  },
   "CF691246": {
     "contest_id": 111,
     "language": "Java 6",
