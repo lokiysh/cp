@@ -4695,6 +4695,23 @@
     ],
     "timestamp": "Nov/20/2013 00:04"
   },
+  "CF555258": {
+    "contest_id": 96,
+    "language": "Java 6",
+    "path": "codeforces/96/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Football",
+    "problem_url": "https://codeforces.com/contest/96/problem/A",
+    "submission_id": "CF555258",
+    "submission_url": "https://codeforces.com/contest/96/submission/555258",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jul/22/2011 18:34"
+  },
   "CF556936": {
     "contest_id": 99,
     "language": "Java 6",

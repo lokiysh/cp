@@ -1,51 +1,22 @@
-import java.util.Scanner;
-import java.io.OutputStream;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.InputStream;
-
-/**
- * Built using CHelper plug-in
- * Actual solution is at the top
- * @author codeKNIGHT
- */
-public class Main {
-	public static void main(String[] args) {
-		InputStream inputStream = System.in;
-		OutputStream outputStream = System.out;
-		Scanner in = new Scanner(inputStream);
-		PrintWriter out = new PrintWriter(outputStream);
-		TaskA solver = new TaskA();
-		solver.solve(1, in, out);
-		out.close();
-	}
+import java.io.*;
+public class football
+{
+public static void main(String args[])throws IOException
+{
+InputStreamReader isr=new InputStreamReader (System.in);
+BufferedReader br=new BufferedReader(isr);
+String s=br.readLine(),s1,ans="NO";
+int i;
+int l=s.length();
+for(i=0;i<l-6;i++)
+{
+s1=s.substring(i,i+7);
+if(s1.equals("0000000")==true||s1.equals("1111111")==true)
+{
+ans="YES";
+break;
 }
-
-class TaskA {
-	public void solve(int testNumber, Scanner in, PrintWriter out) {
-        String s=in.next();
-        int i,c=1;
-        char ch=s.charAt(0);
-        boolean status=false;
-        for(i=1;i<s.length();i++)
-        {
-            if(s.charAt(i)==ch)
-                c++;
-            else
-            {
-                c=1;
-                ch=s.charAt(i);
-            }
-            if(c==7)
-            {
-                status=true;
-                break;
-            }
-        }
-        if(status)
-            out.println("YES");
-        else
-            out.println("NO");
-	}
 }
-
+System.out.println(ans);
+}
+}
