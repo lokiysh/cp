@@ -4695,6 +4695,22 @@
     ],
     "timestamp": "Nov/20/2013 00:04"
   },
+  "CF556936": {
+    "contest_id": 99,
+    "language": "Java 6",
+    "path": "codeforces/99/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Help Far Away Kingdom",
+    "problem_url": "https://codeforces.com/contest/99/problem/A",
+    "submission_id": "CF556936",
+    "submission_url": "https://codeforces.com/contest/99/submission/556936",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/22/2011 20:59"
+  },
   "CF5572775": {
     "contest_id": 379,
     "language": "Java 7",
