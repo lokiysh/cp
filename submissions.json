@@ -4815,6 +4815,23 @@
     ],
     "timestamp": "Jan/17/2014 21:39"
   },
+  "CF571880": {
+    "contest_id": 100,
+    "language": "Pike",
+    "path": "codeforces/100/A.pike",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Carpeting the Room",
+    "problem_url": "https://codeforces.com/contest/100/problem/A",
+    "submission_id": "CF571880",
+    "submission_url": "https://codeforces.com/contest/100/submission/571880",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jul/30/2011 13:26"
+  },
   "CF577664": {
     "contest_id": 94,
     "language": "Java 6",
