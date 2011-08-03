@@ -4815,6 +4815,23 @@
     ],
     "timestamp": "Jan/17/2014 21:39"
   },
+  "CF577664": {
+    "contest_id": 94,
+    "language": "Java 6",
+    "path": "codeforces/94/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Restoring Password",
+    "problem_url": "https://codeforces.com/contest/94/problem/A",
+    "submission_id": "CF577664",
+    "submission_url": "https://codeforces.com/contest/94/submission/577664",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Aug/03/2011 18:55"
+  },
   "CF579884": {
     "contest_id": 102,
     "language": "Java 6",

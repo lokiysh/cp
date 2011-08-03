@@ -545,5 +545,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 5 | [A - Card Game](https://codeforces.com/contest/106/problem/A) | [Java 6](./codeforces/106/A.java) | `implementation` `*1000` | Aug/19/2011 21:03 | 
 4 | [A - Blackjack](https://codeforces.com/contest/104/problem/A) | [Java 6](./codeforces/104/A.java) | `implementation` `*800` | Aug/07/2011 16:35 | 
 3 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [Java 6](./codeforces/102/B.java) | `implementation` `*1000` | Aug/03/2011 23:13 | 
-2 | [B - Friends](https://codeforces.com/contest/94/problem/B) | [Java 6](./codeforces/94/B.java) | `graphs` `implementation` `math` `*1300` | Jun/30/2011 21:22 | 
-1 | [A - Restoring Password](https://codeforces.com/contest/94/problem/A) | [Java 6](./codeforces/94/A.java) | `implementation` `strings` `*900` | Jun/30/2011 20:43 | 
+2 | [A - Restoring Password](https://codeforces.com/contest/94/problem/A) | [Java 6](./codeforces/94/A.java) | `implementation` `strings` `*900` | Aug/03/2011 18:55 | 
+1 | [B - Friends](https://codeforces.com/contest/94/problem/B) | [Java 6](./codeforces/94/B.java) | `graphs` `implementation` `math` `*1300` | Jun/30/2011 21:22 | 
