@@ -4815,6 +4815,22 @@
     ],
     "timestamp": "Jan/17/2014 21:39"
   },
+  "CF579884": {
+    "contest_id": 102,
+    "language": "Java 6",
+    "path": "codeforces/102/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/102/problem/B",
+    "submission_id": "CF579884",
+    "submission_url": "https://codeforces.com/contest/102/submission/579884",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/03/2011 23:13"
+  },
   "CF589505": {
     "contest_id": 104,
     "language": "Java 6",
