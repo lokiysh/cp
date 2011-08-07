@@ -4815,6 +4815,22 @@
     ],
     "timestamp": "Jan/17/2014 21:39"
   },
+  "CF589505": {
+    "contest_id": 104,
+    "language": "Java 6",
+    "path": "codeforces/104/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackjack",
+    "problem_url": "https://codeforces.com/contest/104/problem/A",
+    "submission_id": "CF589505",
+    "submission_url": "https://codeforces.com/contest/104/submission/589505",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/07/2011 16:35"
+  },
   "CF60533509": {
     "contest_id": 1209,
     "language": "Java 8",
