@@ -5166,6 +5166,22 @@
     ],
     "timestamp": "Oct/02/2019 01:35"
   },
+  "CF617625": {
+    "contest_id": 106,
+    "language": "Java 6",
+    "path": "codeforces/106/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/106/problem/A",
+    "submission_id": "CF617625",
+    "submission_url": "https://codeforces.com/contest/106/submission/617625",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/19/2011 21:03"
+  },
   "CF61991971": {
     "contest_id": 1241,
     "language": "Java 8",
