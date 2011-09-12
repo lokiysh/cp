@@ -5950,6 +5950,22 @@
     ],
     "timestamp": "Nov/07/2019 01:25"
   },
+  "CF691246": {
+    "contest_id": 111,
+    "language": "Java 6",
+    "path": "codeforces/111/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Inequiations",
+    "problem_url": "https://codeforces.com/contest/111/problem/A",
+    "submission_id": "CF691246",
+    "submission_url": "https://codeforces.com/contest/111/submission/691246",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Sep/12/2011 20:41"
+  },
   "CF696699": {
     "contest_id": 116,
     "language": "Java 6",
