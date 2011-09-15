@@ -5950,6 +5950,23 @@
     ],
     "timestamp": "Nov/07/2019 01:25"
   },
+  "CF702464": {
+    "contest_id": 116,
+    "language": "Java 6",
+    "path": "codeforces/116/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Pigs and Wolves",
+    "problem_url": "https://codeforces.com/contest/116/problem/B",
+    "submission_id": "CF702464",
+    "submission_url": "https://codeforces.com/contest/116/submission/702464",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Sep/15/2011 23:47"
+  },
   "CF71708119": {
     "contest_id": 1315,
     "language": "Java 8",
