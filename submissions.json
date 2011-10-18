@@ -6782,6 +6782,23 @@
     ],
     "timestamp": "Apr/15/2020 21:55"
   },
+  "CF773650": {
+    "contest_id": 120,
+    "language": "Java 6",
+    "path": "codeforces/120/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Winnie-the-Pooh and honey",
+    "problem_url": "https://codeforces.com/contest/120/problem/C",
+    "submission_id": "CF773650",
+    "submission_url": "https://codeforces.com/contest/120/submission/773650",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/18/2011 12:30"
+  },
   "CF777283": {
     "contest_id": 120,
     "language": "Java 6",
