@@ -6782,6 +6782,24 @@
     ],
     "timestamp": "Apr/15/2020 21:55"
   },
+  "CF772158": {
+    "contest_id": 120,
+    "language": "Java 6",
+    "path": "codeforces/120/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elevator",
+    "problem_url": "https://codeforces.com/contest/120/problem/A",
+    "submission_id": "CF772158",
+    "submission_url": "https://codeforces.com/contest/120/submission/772158",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/18/2011 12:07"
+  },
   "CF773131": {
     "contest_id": 120,
     "language": "Java 6",
