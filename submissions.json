@@ -6782,6 +6782,23 @@
     ],
     "timestamp": "Apr/15/2020 21:55"
   },
+  "CF777283": {
+    "contest_id": 120,
+    "language": "Java 6",
+    "path": "codeforces/120/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Put Knight!",
+    "problem_url": "https://codeforces.com/contest/120/problem/E",
+    "submission_id": "CF777283",
+    "submission_url": "https://codeforces.com/contest/120/submission/777283",
+    "tags": [
+      "games",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Oct/18/2011 14:12"
+  },
   "CF77796300": {
     "contest_id": 1341,
     "language": "Java 8",
