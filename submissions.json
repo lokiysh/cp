@@ -6902,6 +6902,23 @@
     ],
     "timestamp": "May/06/2020 20:48"
   },
+  "CF794045": {
+    "contest_id": 69,
+    "language": "Java 6",
+    "path": "codeforces/69/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Young Physicist",
+    "problem_url": "https://codeforces.com/contest/69/problem/A",
+    "submission_id": "CF794045",
+    "submission_url": "https://codeforces.com/contest/69/submission/794045",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/25/2011 01:33"
+  },
   "CF79862659": {
     "contest_id": 1350,
     "language": "Java 8",
