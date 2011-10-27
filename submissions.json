@@ -7110,6 +7110,22 @@
     ],
     "timestamp": "May/17/2020 19:44"
   },
+  "CF809419": {
+    "contest_id": 122,
+    "language": "Java 6",
+    "path": "codeforces/122/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Transformation",
+    "problem_url": "https://codeforces.com/contest/122/problem/D",
+    "submission_id": "CF809419",
+    "submission_url": "https://codeforces.com/contest/122/submission/809419",
+    "tags": [
+      "brute force",
+      "*1500"
+    ],
+    "timestamp": "Oct/28/2011 01:37"
+  },
   "CF81203972": {
     "contest_id": 1360,
     "language": "Java 8",
