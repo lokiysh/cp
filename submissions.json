@@ -6970,6 +6970,23 @@
     ],
     "timestamp": "May/12/2020 21:25"
   },
+  "CF799997": {
+    "contest_id": 122,
+    "language": "Java 6",
+    "path": "codeforces/122/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lucky Substring",
+    "problem_url": "https://codeforces.com/contest/122/problem/B",
+    "submission_id": "CF799997",
+    "submission_url": "https://codeforces.com/contest/122/submission/799997",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/27/2011 20:41"
+  },
   "CF80336916": {
     "contest_id": 1355,
     "language": "Java 8",
