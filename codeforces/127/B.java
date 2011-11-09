@@ -1,38 +1,41 @@
-import java.util.Scanner;
-import java.io.OutputStream;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.InputStream;
 
-/**
- * Built using CHelper plug-in
- * Actual solution is at the top
- * @author codeKNIGHT
+/*
+********QUESTION DESCRIPTION*************
+ 
+ 
+* @author (codeKNIGHT) 
  */
-public class Main {
-	public static void main(String[] args) {
-		InputStream inputStream = System.in;
-		OutputStream outputStream = System.out;
-		Scanner in = new Scanner(inputStream);
-		PrintWriter out = new PrintWriter(outputStream);
-		TaskB solver = new TaskB();
-		solver.solve(1, in, out);
-		out.close();
-	}
-}
-
-class TaskB {
-	public void solve(int testNumber, Scanner in, PrintWriter out) {
+import java.util.*;
+import java.math.*;
+import java.io.*;
+public class b93
+{
+    public static void main(String args[])throws IOException
+    {
+        Scanner in=new Scanner(System.in);
+        PrintWriter out=new PrintWriter(System.out);
+        //FileReader f=new FileReader("C:\\users\\Lokesh\\Desktop\\input.txt");
+            //Scanner in=new Scanner(f);
+        //int t=in.nextInt();
         int i;
+        String s;
         int n=in.nextInt();
-        int a[]=new int[n],c=0,count[]=new int[100];
+        int a[]=new int[n];
+        int count[]=new int [100];
+        int pairs=0;
         for(i=0;i<n;i++)
-            a[i]=in.nextInt();
+        a[i]=in.nextInt();
         for(i=0;i<n;i++)
+        {
             count[a[i]-1]+=1;
-        for(i=0;i<100;i++)
-            c+=count[i]/2;
-        out.println(c/2);
-	}
-}
+        }
+            for(i=0;i<100;i++)
+            {
+                pairs+=count[i]/2;
+            }
+            out.println(pairs/2);
+        
 
+        out.flush();
+    } 
+}

@@ -7706,6 +7706,22 @@
     ],
     "timestamp": "Jun/18/2020 22:03"
   },
+  "CF843971": {
+    "contest_id": 127,
+    "language": "Java 6",
+    "path": "codeforces/127/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Canvas Frames",
+    "problem_url": "https://codeforces.com/contest/127/problem/B",
+    "submission_id": "CF843971",
+    "submission_url": "https://codeforces.com/contest/127/submission/843971",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Nov/09/2011 22:37"
+  },
   "CF845032": {
     "contest_id": 127,
     "language": "Java 6",
