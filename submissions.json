@@ -7828,6 +7828,22 @@
     ],
     "timestamp": "Jul/11/2020 21:23"
   },
+  "CF874791": {
+    "contest_id": 106,
+    "language": "Java 6",
+    "path": "codeforces/106/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Buns",
+    "problem_url": "https://codeforces.com/contest/106/problem/C",
+    "submission_id": "CF874791",
+    "submission_url": "https://codeforces.com/contest/106/submission/874791",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Nov/17/2011 01:13"
+  },
   "CF87565298": {
     "contest_id": 1381,
     "language": "Java 8",
