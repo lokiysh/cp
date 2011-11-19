@@ -7900,6 +7900,22 @@
     ],
     "timestamp": "Jul/24/2020 20:16"
   },
+  "CF879015": {
+    "contest_id": 127,
+    "language": "Java 6",
+    "path": "codeforces/127/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wasted Time",
+    "problem_url": "https://codeforces.com/contest/127/problem/A",
+    "submission_id": "CF879015",
+    "submission_url": "https://codeforces.com/contest/127/submission/879015",
+    "tags": [
+      "geometry",
+      "*900"
+    ],
+    "timestamp": "Nov/19/2011 17:08"
+  },
   "CF879025": {
     "contest_id": 127,
     "language": "Java 6",
