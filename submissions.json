@@ -8159,6 +8159,23 @@
     ],
     "timestamp": "Aug/12/2020 20:53"
   },
+  "CF901872": {
+    "contest_id": 131,
+    "language": "Java 6",
+    "path": "codeforces/131/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Opposites Attract",
+    "problem_url": "https://codeforces.com/contest/131/problem/B",
+    "submission_id": "CF901872",
+    "submission_url": "https://codeforces.com/contest/131/submission/901872",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/25/2011 22:22"
+  },
   "CF902698": {
     "contest_id": 131,
     "language": "Java 6",
