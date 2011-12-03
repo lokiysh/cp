@@ -8266,6 +8266,22 @@
     ],
     "timestamp": "Sep/06/2020 20:29"
   },
+  "CF920515": {
+    "contest_id": 133,
+    "language": "Java 6",
+    "path": "codeforces/133/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF920515",
+    "submission_url": "https://codeforces.com/contest/133/submission/920515",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/03/2011 20:42"
+  },
   "CF92056932": {
     "contest_id": 1405,
     "language": "Java 8",
