@@ -8398,6 +8398,22 @@
     ],
     "timestamp": "Sep/12/2020 21:02"
   },
+  "CF927867": {
+    "contest_id": 133,
+    "language": "Java 6",
+    "path": "codeforces/133/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Unary",
+    "problem_url": "https://codeforces.com/contest/133/problem/B",
+    "submission_id": "CF927867",
+    "submission_url": "https://codeforces.com/contest/133/submission/927867",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/04/2011 02:03"
+  },
   "CF95856787": {
     "contest_id": 1421,
     "language": "Java 8",
