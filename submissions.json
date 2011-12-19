@@ -8521,6 +8521,24 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF968462": {
+    "contest_id": 136,
+    "language": "Java 6",
+    "path": "codeforces/136/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Replacement",
+    "problem_url": "https://codeforces.com/contest/136/problem/C",
+    "submission_id": "CF968462",
+    "submission_url": "https://codeforces.com/contest/136/submission/968462",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Dec/19/2011 23:25"
+  },
   "CF968517": {
     "contest_id": 137,
     "language": "Java 6",
