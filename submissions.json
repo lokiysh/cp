@@ -8521,6 +8521,22 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF968517": {
+    "contest_id": 137,
+    "language": "Java 6",
+    "path": "codeforces/137/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Postcards and photos",
+    "problem_url": "https://codeforces.com/contest/137/problem/A",
+    "submission_id": "CF968517",
+    "submission_url": "https://codeforces.com/contest/137/submission/968517",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/20/2011 00:22"
+  },
   "CF968546": {
     "contest_id": 137,
     "language": "Java 6",
