@@ -8521,6 +8521,22 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF968546": {
+    "contest_id": 137,
+    "language": "Java 6",
+    "path": "codeforces/137/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation",
+    "problem_url": "https://codeforces.com/contest/137/problem/B",
+    "submission_id": "CF968546",
+    "submission_url": "https://codeforces.com/contest/137/submission/968546",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/20/2011 00:44"
+  },
   "CF968574": {
     "contest_id": 137,
     "language": "Java 6",
