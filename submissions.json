@@ -8521,6 +8521,23 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF969781": {
+    "contest_id": 96,
+    "language": "Java 6",
+    "path": "codeforces/96/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hockey",
+    "problem_url": "https://codeforces.com/contest/96/problem/C",
+    "submission_id": "CF969781",
+    "submission_url": "https://codeforces.com/contest/96/submission/969781",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Dec/21/2011 01:19"
+  },
   "CF969801": {
     "contest_id": 114,
     "language": "Java 6",
