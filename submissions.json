@@ -8521,6 +8521,22 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF969801": {
+    "contest_id": 114,
+    "language": "Java 6",
+    "path": "codeforces/114/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cifera",
+    "problem_url": "https://codeforces.com/contest/114/problem/A",
+    "submission_id": "CF969801",
+    "submission_url": "https://codeforces.com/contest/114/submission/969801",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/21/2011 01:37"
+  },
   "CF970412": {
     "contest_id": 78,
     "language": "Java 6",
