@@ -8521,6 +8521,23 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF970956": {
+    "contest_id": 79,
+    "language": "Java 6",
+    "path": "codeforces/79/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Colorful Field",
+    "problem_url": "https://codeforces.com/contest/79/problem/B",
+    "submission_id": "CF970956",
+    "submission_url": "https://codeforces.com/contest/79/submission/970956",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Dec/22/2011 01:04"
+  },
   "CF974667": {
     "contest_id": 139,
     "language": "Java 6",
