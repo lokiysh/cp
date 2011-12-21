@@ -8521,6 +8521,22 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF970907": {
+    "contest_id": 79,
+    "language": "Java 6",
+    "path": "codeforces/79/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bus Game",
+    "problem_url": "https://codeforces.com/contest/79/problem/A",
+    "submission_id": "CF970907",
+    "submission_url": "https://codeforces.com/contest/79/submission/970907",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Dec/22/2011 00:23"
+  },
   "CF970956": {
     "contest_id": 79,
     "language": "Java 6",
