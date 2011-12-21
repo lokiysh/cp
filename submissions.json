@@ -8521,6 +8521,23 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF970412": {
+    "contest_id": 78,
+    "language": "Java 6",
+    "path": "codeforces/78/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Haiku",
+    "problem_url": "https://codeforces.com/contest/78/problem/A",
+    "submission_id": "CF970412",
+    "submission_url": "https://codeforces.com/contest/78/submission/970412",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/21/2011 16:20"
+  },
   "CF970426": {
     "contest_id": 78,
     "language": "Java 6",
