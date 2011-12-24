@@ -8521,6 +8521,23 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF980919": {
+    "contest_id": 139,
+    "language": "Java 6",
+    "path": "codeforces/139/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Literature Lesson",
+    "problem_url": "https://codeforces.com/contest/139/problem/C",
+    "submission_id": "CF980919",
+    "submission_url": "https://codeforces.com/contest/139/submission/980919",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Dec/24/2011 19:16"
+  },
   "CF981970": {
     "contest_id": 139,
     "language": "Java 6",
