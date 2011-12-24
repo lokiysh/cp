@@ -8521,6 +8521,23 @@
     ],
     "timestamp": "Oct/25/2020 18:16"
   },
+  "CF981970": {
+    "contest_id": 139,
+    "language": "Java 6",
+    "path": "codeforces/139/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Wallpaper",
+    "problem_url": "https://codeforces.com/contest/139/problem/B",
+    "submission_id": "CF981970",
+    "submission_url": "https://codeforces.com/contest/139/submission/981970",
+    "tags": [
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Dec/24/2011 20:05"
+  },
   "CF98455962": {
     "contest_id": 1447,
     "language": "Java 8",
