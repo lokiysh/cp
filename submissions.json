@@ -8573,5 +8573,22 @@
       "*800"
     ],
     "timestamp": "Nov/15/2020 21:18"
+  },
+  "CF996875": {
+    "contest_id": 147,
+    "language": "Java 6",
+    "path": "codeforces/147/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Punctuation",
+    "problem_url": "https://codeforces.com/contest/147/problem/A",
+    "submission_id": "CF996875",
+    "submission_url": "https://codeforces.com/contest/147/submission/996875",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Jan/03/2012 22:12"
   }
 }
