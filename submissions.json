@@ -34,6 +34,23 @@
     ],
     "timestamp": "Dec/06/2020 20:46"
   },
+  "CF1012527": {
+    "contest_id": 140,
+    "language": "Java 6",
+    "path": "codeforces/140/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Table",
+    "problem_url": "https://codeforces.com/contest/140/problem/A",
+    "submission_id": "CF1012527",
+    "submission_url": "https://codeforces.com/contest/140/submission/1012527",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jan/05/2012 15:48"
+  },
   "CF1015855": {
     "contest_id": 58,
     "language": "Java 6",
