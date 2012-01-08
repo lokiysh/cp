@@ -85,6 +85,24 @@
     ],
     "timestamp": "Dec/19/2020 16:13"
   },
+  "CF1018227": {
+    "contest_id": 141,
+    "language": "Java 6",
+    "path": "codeforces/141/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Amusing Joke",
+    "problem_url": "https://codeforces.com/contest/141/problem/A",
+    "submission_id": "CF1018227",
+    "submission_url": "https://codeforces.com/contest/141/submission/1018227",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/08/2012 20:38"
+  },
   "CF1024205": {
     "contest_id": 141,
     "language": "Java 6",
