@@ -85,6 +85,24 @@
     ],
     "timestamp": "Dec/19/2020 16:13"
   },
+  "CF1024435": {
+    "contest_id": 141,
+    "language": "Java 6",
+    "path": "codeforces/141/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Queue",
+    "problem_url": "https://codeforces.com/contest/141/problem/C",
+    "submission_id": "CF1024435",
+    "submission_url": "https://codeforces.com/contest/141/submission/1024435",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jan/09/2012 00:34"
+  },
   "CF102777373": {
     "contest_id": 1466,
     "language": "Java 8",
