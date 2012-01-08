@@ -85,6 +85,23 @@
     ],
     "timestamp": "Dec/19/2020 16:13"
   },
+  "CF1024205": {
+    "contest_id": 141,
+    "language": "Java 6",
+    "path": "codeforces/141/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hopscotch",
+    "problem_url": "https://codeforces.com/contest/141/problem/B",
+    "submission_id": "CF1024205",
+    "submission_url": "https://codeforces.com/contest/141/submission/1024205",
+    "tags": [
+      "geometry",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jan/08/2012 23:52"
+  },
   "CF1024435": {
     "contest_id": 141,
     "language": "Java 6",
