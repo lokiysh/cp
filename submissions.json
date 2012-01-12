@@ -175,6 +175,23 @@
     ],
     "timestamp": "Dec/30/2020 22:30"
   },
+  "CF1032608": {
+    "contest_id": 143,
+    "language": "Java 6",
+    "path": "codeforces/143/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Help Vasilisa the Wise 2",
+    "problem_url": "https://codeforces.com/contest/143/problem/A",
+    "submission_id": "CF1032608",
+    "submission_url": "https://codeforces.com/contest/143/submission/1032608",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/12/2012 20:54"
+  },
   "CF103394740": {
     "contest_id": 1471,
     "language": "Java 8",
