@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1040197": {
+    "contest_id": 143,
+    "language": "Java 6",
+    "path": "codeforces/143/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Help General",
+    "problem_url": "https://codeforces.com/contest/143/problem/D",
+    "submission_id": "CF1040197",
+    "submission_url": "https://codeforces.com/contest/143/submission/1040197",
+    "tags": [
+      "graph matchings",
+      "greedy",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Jan/12/2012 23:06"
+  },
   "CF1076110": {
     "contest_id": 144,
     "language": "Java 6",
