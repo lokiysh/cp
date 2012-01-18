@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1079551": {
+    "contest_id": 144,
+    "language": "Java 6",
+    "path": "codeforces/144/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Meeting",
+    "problem_url": "https://codeforces.com/contest/144/problem/B",
+    "submission_id": "CF1079551",
+    "submission_url": "https://codeforces.com/contest/144/submission/1079551",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/18/2012 21:41"
+  },
   "CF1718290": {
     "contest_id": 188,
     "language": "Roco",
