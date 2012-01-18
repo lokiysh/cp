@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1076110": {
+    "contest_id": 144,
+    "language": "Java 6",
+    "path": "codeforces/144/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrival of the General",
+    "problem_url": "https://codeforces.com/contest/144/problem/A",
+    "submission_id": "CF1076110",
+    "submission_url": "https://codeforces.com/contest/144/submission/1076110",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/18/2012 20:45"
+  },
   "CF1079551": {
     "contest_id": 144,
     "language": "Java 6",
