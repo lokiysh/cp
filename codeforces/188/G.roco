@@ -1,0 +1,30 @@
+co input
+{
+eq [101] [0] 0
+if [101] ac
+iin [103]
+add [[103]] [[103]] 1
+sub [0] [0] 1
+}
+co print 
+{
+eq [104] [[102]] 0
+if [104] ac
+iout [102]
+sub [[102]] [[102]] 1
+cout 10
+}
+co loop
+{
+eq [101] [102] 101
+if [101] ac
+neq [105] [[102]] 0 
+if [105] ca print
+add [102] [102] 1
+}
+
+iin [0]
+ca input
+set [102] 1
+ca loop
+ac

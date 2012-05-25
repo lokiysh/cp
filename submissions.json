@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1718290": {
+    "contest_id": 188,
+    "language": "Roco",
+    "path": "codeforces/188/G.roco",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Array Sorting",
+    "problem_url": "https://codeforces.com/contest/188/problem/G",
+    "submission_id": "CF1718290",
+    "submission_url": "https://codeforces.com/contest/188/submission/1718290",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/25/2012 23:50"
+  },
   "CF1728126": {
     "contest_id": 192,
     "language": "Java 7",
