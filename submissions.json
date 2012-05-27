@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1728126": {
+    "contest_id": 192,
+    "language": "Java 7",
+    "path": "codeforces/192/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Walking in the Rain",
+    "problem_url": "https://codeforces.com/contest/192/problem/B",
+    "submission_id": "CF1728126",
+    "submission_url": "https://codeforces.com/contest/192/submission/1728126",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/27/2012 21:42"
+  },
   "CF1753997": {
     "contest_id": 194,
     "language": "Java 7",
