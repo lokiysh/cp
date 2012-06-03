@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1753997": {
+    "contest_id": 194,
+    "language": "Java 7",
+    "path": "codeforces/194/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/194/problem/A",
+    "submission_id": "CF1753997",
+    "submission_url": "https://codeforces.com/contest/194/submission/1753997",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/03/2012 21:05"
+  },
   "CF1776308": {
     "contest_id": 195,
     "language": "Java 7",
