@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1781887": {
+    "contest_id": 195,
+    "language": "Java 7",
+    "path": "codeforces/195/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Try and Catch",
+    "problem_url": "https://codeforces.com/contest/195/problem/C",
+    "submission_id": "CF1781887",
+    "submission_url": "https://codeforces.com/contest/195/submission/1781887",
+    "tags": [
+      "expression parsing",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jun/11/2012 00:47"
+  },
   "CF1792707": {
     "contest_id": 197,
     "language": "Java 7",
