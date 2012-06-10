@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1776308": {
+    "contest_id": 195,
+    "language": "Java 7",
+    "path": "codeforces/195/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Let's Watch Football",
+    "problem_url": "https://codeforces.com/contest/195/problem/A",
+    "submission_id": "CF1776308",
+    "submission_url": "https://codeforces.com/contest/195/submission/1776308",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/10/2012 21:15"
+  },
   "CF1778691": {
     "contest_id": 195,
     "language": "Java 7",
