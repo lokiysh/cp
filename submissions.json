@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1778691": {
+    "contest_id": 195,
+    "language": "Java 7",
+    "path": "codeforces/195/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "After Training",
+    "problem_url": "https://codeforces.com/contest/195/problem/B",
+    "submission_id": "CF1778691",
+    "submission_url": "https://codeforces.com/contest/195/submission/1778691",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/10/2012 22:06"
+  },
   "CF1781887": {
     "contest_id": 195,
     "language": "Java 7",
