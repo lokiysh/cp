@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1793116": {
+    "contest_id": 197,
+    "language": "Java 7",
+    "path": "codeforces/197/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Lexicographically Maximum Subsequence",
+    "problem_url": "https://codeforces.com/contest/197/problem/C",
+    "submission_id": "CF1793116",
+    "submission_url": "https://codeforces.com/contest/197/submission/1793116",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jun/12/2012 19:44"
+  },
   "CF1796631": {
     "contest_id": 197,
     "language": "Java 7",
