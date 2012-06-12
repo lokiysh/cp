@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1796631": {
+    "contest_id": 197,
+    "language": "Java 7",
+    "path": "codeforces/197/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plate Game",
+    "problem_url": "https://codeforces.com/contest/197/problem/A",
+    "submission_id": "CF1796631",
+    "submission_url": "https://codeforces.com/contest/197/submission/1796631",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jun/12/2012 20:58"
+  },
   "CF1814799": {
     "contest_id": 199,
     "language": "Java 7",
