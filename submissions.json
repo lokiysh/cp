@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1792707": {
+    "contest_id": 197,
+    "language": "Java 7",
+    "path": "codeforces/197/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Limit",
+    "problem_url": "https://codeforces.com/contest/197/problem/B",
+    "submission_id": "CF1792707",
+    "submission_url": "https://codeforces.com/contest/197/submission/1792707",
+    "tags": [
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/12/2012 19:37"
+  },
   "CF1793116": {
     "contest_id": 197,
     "language": "Java 7",
