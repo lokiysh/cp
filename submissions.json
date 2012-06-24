@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1830439": {
+    "contest_id": 200,
+    "language": "Java 7",
+    "path": "codeforces/200/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Football Championship",
+    "problem_url": "https://codeforces.com/contest/200/problem/C",
+    "submission_id": "CF1830439",
+    "submission_url": "https://codeforces.com/contest/200/submission/1830439",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jun/25/2012 00:19"
+  },
   "CF1840870": {
     "contest_id": 202,
     "language": "Java 7",
