@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1830234": {
+    "contest_id": 200,
+    "language": "Java 7",
+    "path": "codeforces/200/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Programming Language",
+    "problem_url": "https://codeforces.com/contest/200/problem/D",
+    "submission_id": "CF1830234",
+    "submission_url": "https://codeforces.com/contest/200/submission/1830234",
+    "tags": [
+      "binary search",
+      "brute force",
+      "expression parsing",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jun/24/2012 23:41"
+  },
   "CF1830439": {
     "contest_id": 200,
     "language": "Java 7",
