@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1844208": {
+    "contest_id": 201,
+    "language": "Java 7",
+    "path": "codeforces/201/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Clear Symmetry",
+    "problem_url": "https://codeforces.com/contest/201/problem/A",
+    "submission_id": "CF1844208",
+    "submission_url": "https://codeforces.com/contest/201/submission/1844208",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/29/2012 23:43"
+  },
   "CF1853037": {
     "contest_id": 203,
     "language": "Java 7",
