@@ -35,7 +35,6 @@ class TaskC {
         int c=0;
         StringBuilder s=new StringBuilder("");
         i=0;
-       
         while (d>0&&i<n)
         {
             if(array[i].space<=d)
@@ -63,11 +62,7 @@ class TaskC {
         }
         public int compareTo(toursist a)
         {
-            if(a.space>this.space)
-                return -1;
-            else if(a.space<this.space)
-                return 1;
-            else return 0;
+            return (Integer.compare(this.space,a.space));
         }
     }
 }
