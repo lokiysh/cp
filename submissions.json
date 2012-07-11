@@ -250,6 +250,26 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1891640": {
+    "contest_id": 205,
+    "language": "Java 7",
+    "path": "codeforces/205/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Little Elephant and Interval",
+    "problem_url": "https://codeforces.com/contest/205/problem/C",
+    "submission_id": "CF1891640",
+    "submission_url": "https://codeforces.com/contest/205/submission/1891640",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jul/12/2012 00:24"
+  },
   "CF1901619": {
     "contest_id": 193,
     "language": "Java 7",
