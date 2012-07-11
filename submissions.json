@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1883526": {
+    "contest_id": 205,
+    "language": "Java 7",
+    "path": "codeforces/205/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Elephant and Rozdil",
+    "problem_url": "https://codeforces.com/contest/205/problem/A",
+    "submission_id": "CF1883526",
+    "submission_url": "https://codeforces.com/contest/205/submission/1883526",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/11/2012 21:03"
+  },
   "CF1887503": {
     "contest_id": 205,
     "language": "Java 7",
