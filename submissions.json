@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1887503": {
+    "contest_id": 205,
+    "language": "Java 7",
+    "path": "codeforces/205/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Elephant and Sorting",
+    "problem_url": "https://codeforces.com/contest/205/problem/B",
+    "submission_id": "CF1887503",
+    "submission_url": "https://codeforces.com/contest/205/submission/1887503",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jul/11/2012 21:45"
+  },
   "CF1888912": {
     "contest_id": 205,
     "language": "Java 7",
