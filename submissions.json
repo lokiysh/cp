@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1888912": {
+    "contest_id": 205,
+    "language": "Java 7",
+    "path": "codeforces/205/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Little Elephant and Cards",
+    "problem_url": "https://codeforces.com/contest/205/problem/D",
+    "submission_id": "CF1888912",
+    "submission_url": "https://codeforces.com/contest/205/submission/1888912",
+    "tags": [
+      "binary search",
+      "brute force",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jul/11/2012 22:08"
+  },
   "CF1891640": {
     "contest_id": 205,
     "language": "Java 7",
