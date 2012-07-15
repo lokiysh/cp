@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1901619": {
+    "contest_id": 193,
+    "language": "Java 7",
+    "path": "codeforces/193/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cutting Figure",
+    "problem_url": "https://codeforces.com/contest/193/problem/A",
+    "submission_id": "CF1901619",
+    "submission_url": "https://codeforces.com/contest/193/submission/1901619",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Jul/16/2012 01:31"
+  },
   "CF1911951": {
     "contest_id": 183,
     "language": "Java 7",
