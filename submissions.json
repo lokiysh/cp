@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1912425": {
+    "contest_id": 183,
+    "language": "Java 7",
+    "path": "codeforces/183/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Zoo",
+    "problem_url": "https://codeforces.com/contest/183/problem/B",
+    "submission_id": "CF1912425",
+    "submission_url": "https://codeforces.com/contest/183/submission/1912425",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*1700"
+    ],
+    "timestamp": "Jul/19/2012 23:19"
+  },
   "CF1912698": {
     "contest_id": 187,
     "language": "Java 7",
