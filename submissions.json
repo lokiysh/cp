@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1912698": {
+    "contest_id": 187,
+    "language": "Java 7",
+    "path": "codeforces/187/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AlgoRace",
+    "problem_url": "https://codeforces.com/contest/187/problem/B",
+    "submission_id": "CF1912698",
+    "submission_url": "https://codeforces.com/contest/187/submission/1912698",
+    "tags": [
+      "dp",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "Jul/20/2012 02:12"
+  },
   "CF1913862": {
     "contest_id": 1,
     "language": "Java 7",
