@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1911951": {
+    "contest_id": 183,
+    "language": "Java 7",
+    "path": "codeforces/183/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cyclic Coloring",
+    "problem_url": "https://codeforces.com/contest/183/problem/C",
+    "submission_id": "CF1911951",
+    "submission_url": "https://codeforces.com/contest/183/submission/1911951",
+    "tags": [
+      "dfs and similar",
+      "*2200"
+    ],
+    "timestamp": "Jul/19/2012 20:26"
+  },
   "CF1912425": {
     "contest_id": 183,
     "language": "Java 7",
