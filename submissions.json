@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1914334": {
+    "contest_id": 2,
+    "language": "Java 7",
+    "path": "codeforces/2/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The least round way",
+    "problem_url": "https://codeforces.com/contest/2/problem/B",
+    "submission_id": "CF1914334",
+    "submission_url": "https://codeforces.com/contest/2/submission/1914334",
+    "tags": [
+      "dp",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Jul/20/2012 19:13"
+  },
   "CF1924992": {
     "contest_id": 208,
     "language": "Java 7",
