@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1926393": {
+    "contest_id": 208,
+    "language": "Java 7",
+    "path": "codeforces/208/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Prizes, Prizes, more Prizes",
+    "problem_url": "https://codeforces.com/contest/208/problem/D",
+    "submission_id": "CF1926393",
+    "submission_url": "https://codeforces.com/contest/208/submission/1926393",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/23/2012 21:23"
+  },
   "CF1937258": {
     "contest_id": 81,
     "language": "Java 7",
