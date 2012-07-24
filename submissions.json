@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1937258": {
+    "contest_id": 81,
+    "language": "Java 7",
+    "path": "codeforces/81/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plug-in",
+    "problem_url": "https://codeforces.com/contest/81/problem/A",
+    "submission_id": "CF1937258",
+    "submission_url": "https://codeforces.com/contest/81/submission/1937258",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/25/2012 02:24"
+  },
   "CF1937298": {
     "contest_id": 175,
     "language": "Java 7",
