@@ -1,9 +1,12 @@
+import java.io.InputStreamReader;
+import java.io.IOException;
+import java.util.Arrays;
+import java.io.PrintStream;
 import java.io.BufferedReader;
 import java.io.OutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
+import java.math.BigInteger;
 import java.io.InputStream;
 
 /**
@@ -26,7 +29,7 @@ public class Main {
 class TaskA {
 	public void solve(int testNumber, InputReader in, PrintWriter out) {
         String s=in.next(),com="1000000";
-        int  a,b,c,max=0,d;
+        BigInteger a,b,c,max=BigInteger.ZERO,d;
         int i,j,n=s.length();
         boolean st=false;
         for(i=1;i<=n-2;i++)
@@ -40,14 +43,14 @@ class TaskA {
                     continue;
                 if(x.length()==7&&!x.equals(com)||y.length()==7&&!y.equals(com)||z.length()==7&&!z.equals(com))
                     continue;
-                //Debug.print(x+" "+y+" "+z);
+                Debug.print(x+" "+y+" "+z);
                 if(x.startsWith("0")&&x.length()>1||y.startsWith("0")&&y.length()>1||z.startsWith("0")&&z.length()>1)
                     continue;
-                a=Integer.parseInt(x);
-                b=Integer.parseInt(y);
-                c=Integer.parseInt(z);
-                d=a+b+c;
-                if(d>=max)
+                a=new BigInteger(x);
+                b=new BigInteger(y);
+                c=new BigInteger(z);
+                d=a.add(b).add(c);
+                if(d.compareTo(max)>=0)
                 {
                     st=true;
                     max=d;
@@ -85,4 +88,13 @@ class InputReader
         }
     }
     }
+
+class Debug {
+    public static void print(Object... a)
+    {
+        boolean oj=System.getProperty("ONLINE_JUDGE")!=null;
+        if(!oj)
+            System.out.println(Arrays.deepToString(a));
+    }
+}
 
