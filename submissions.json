@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1959578": {
+    "contest_id": 214,
+    "language": "Java 7",
+    "path": "codeforces/214/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hometask",
+    "problem_url": "https://codeforces.com/contest/214/problem/B",
+    "submission_id": "CF1959578",
+    "submission_url": "https://codeforces.com/contest/214/submission/1959578",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jul/30/2012 22:46"
+  },
   "CF1982241": {
     "contest_id": 215,
     "language": "Java 7",
