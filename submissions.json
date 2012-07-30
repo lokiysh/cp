@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1953515": {
+    "contest_id": 214,
+    "language": "Java 7",
+    "path": "codeforces/214/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "System of Equations",
+    "problem_url": "https://codeforces.com/contest/214/problem/A",
+    "submission_id": "CF1953515",
+    "submission_url": "https://codeforces.com/contest/214/submission/1953515",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jul/30/2012 21:03"
+  },
   "CF1959578": {
     "contest_id": 214,
     "language": "Java 7",
