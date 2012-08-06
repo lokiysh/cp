@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1982241": {
+    "contest_id": 215,
+    "language": "Java 7",
+    "path": "codeforces/215/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Olympic Medal",
+    "problem_url": "https://codeforces.com/contest/215/problem/B",
+    "submission_id": "CF1982241",
+    "submission_url": "https://codeforces.com/contest/215/submission/1982241",
+    "tags": [
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Aug/06/2012 21:19"
+  },
   "CF1987858": {
     "contest_id": 215,
     "language": "Java 7",
