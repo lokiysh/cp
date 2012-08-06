@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF1987858": {
+    "contest_id": 215,
+    "language": "Java 7",
+    "path": "codeforces/215/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hot Days",
+    "problem_url": "https://codeforces.com/contest/215/problem/D",
+    "submission_id": "CF1987858",
+    "submission_url": "https://codeforces.com/contest/215/submission/1987858",
+    "tags": [
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Aug/06/2012 23:38"
+  },
   "CF2030156": {
     "contest_id": 218,
     "language": "Java 6",
