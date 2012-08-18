@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF2030156": {
+    "contest_id": 218,
+    "language": "Java 6",
+    "path": "codeforces/218/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ice Skating",
+    "problem_url": "https://codeforces.com/contest/218/problem/C",
+    "submission_id": "CF2030156",
+    "submission_url": "https://codeforces.com/contest/218/submission/2030156",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1200"
+    ],
+    "timestamp": "Aug/18/2012 14:52"
+  },
   "CF2072449": {
     "contest_id": 221,
     "language": "Java 6",
