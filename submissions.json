@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF2073625": {
+    "contest_id": 221,
+    "language": "Java 6",
+    "path": "codeforces/221/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Elephant and Numbers",
+    "problem_url": "https://codeforces.com/contest/221/problem/B",
+    "submission_id": "CF2073625",
+    "submission_url": "https://codeforces.com/contest/221/submission/2073625",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Aug/31/2012 21:10"
+  },
   "CF2075627": {
     "contest_id": 221,
     "language": "Java 6",
