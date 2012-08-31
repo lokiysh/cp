@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF2072449": {
+    "contest_id": 221,
+    "language": "Java 6",
+    "path": "codeforces/221/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Elephant and Function",
+    "problem_url": "https://codeforces.com/contest/221/problem/A",
+    "submission_id": "CF2072449",
+    "submission_url": "https://codeforces.com/contest/221/submission/2072449",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Aug/31/2012 21:03"
+  },
   "CF2073625": {
     "contest_id": 221,
     "language": "Java 6",
