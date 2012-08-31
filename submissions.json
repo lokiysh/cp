@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF2083756": {
+    "contest_id": 220,
+    "language": "Java 6",
+    "path": "codeforces/220/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Elephant and Array",
+    "problem_url": "https://codeforces.com/contest/220/problem/B",
+    "submission_id": "CF2083756",
+    "submission_url": "https://codeforces.com/contest/220/submission/2083756",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*1800"
+    ],
+    "timestamp": "Sep/01/2012 00:31"
+  },
   "CF2110396": {
     "contest_id": 222,
     "language": "Java 6",
