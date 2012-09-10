@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF2119524": {
+    "contest_id": 222,
+    "language": "Java 6",
+    "path": "codeforces/222/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Olympiad",
+    "problem_url": "https://codeforces.com/contest/222/problem/D",
+    "submission_id": "CF2119524",
+    "submission_url": "https://codeforces.com/contest/222/submission/2119524",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Sep/11/2012 00:51"
+  },
   "CF21443670": {
     "contest_id": 727,
     "language": "Java 8",
