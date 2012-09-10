@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF2111184": {
+    "contest_id": 222,
+    "language": "Java 6",
+    "path": "codeforces/222/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cosmic Tables",
+    "problem_url": "https://codeforces.com/contest/222/problem/B",
+    "submission_id": "CF2111184",
+    "submission_url": "https://codeforces.com/contest/222/submission/2111184",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/10/2012 21:36"
+  },
   "CF2119524": {
     "contest_id": 222,
     "language": "Java 6",
