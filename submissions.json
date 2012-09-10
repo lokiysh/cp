@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF2110396": {
+    "contest_id": 222,
+    "language": "Java 6",
+    "path": "codeforces/222/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shooshuns and Sequence ",
+    "problem_url": "https://codeforces.com/contest/222/problem/A",
+    "submission_id": "CF2110396",
+    "submission_url": "https://codeforces.com/contest/222/submission/2110396",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/10/2012 21:30"
+  },
   "CF2111184": {
     "contest_id": 222,
     "language": "Java 6",
