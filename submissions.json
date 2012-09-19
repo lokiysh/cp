@@ -304,6 +304,23 @@
     ],
     "timestamp": "Oct/15/2016 17:13"
   },
+  "CF2213249": {
+    "contest_id": 225,
+    "language": "Java 6",
+    "path": "codeforces/225/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dice Tower",
+    "problem_url": "https://codeforces.com/contest/225/problem/A",
+    "submission_id": "CF2213249",
+    "submission_url": "https://codeforces.com/contest/225/submission/2213249",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Sep/19/2012 21:24"
+  },
   "CF2219491": {
     "contest_id": 225,
     "language": "Java 6",
