@@ -304,6 +304,22 @@
     ],
     "timestamp": "Oct/15/2016 17:13"
   },
+  "CF2246017": {
+    "contest_id": 227,
+    "language": "Java 6",
+    "path": "codeforces/227/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Flying Saucer Segments",
+    "problem_url": "https://codeforces.com/contest/227/problem/C",
+    "submission_id": "CF2246017",
+    "submission_url": "https://codeforces.com/contest/227/submission/2246017",
+    "tags": [
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Sep/25/2012 00:05"
+  },
   "CF2315837": {
     "contest_id": 231,
     "language": "Java 6",
