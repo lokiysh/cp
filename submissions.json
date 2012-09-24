@@ -304,6 +304,22 @@
     ],
     "timestamp": "Oct/15/2016 17:13"
   },
+  "CF2245952": {
+    "contest_id": 227,
+    "language": "Java 6",
+    "path": "codeforces/227/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Where do I Turn?",
+    "problem_url": "https://codeforces.com/contest/227/problem/A",
+    "submission_id": "CF2245952",
+    "submission_url": "https://codeforces.com/contest/227/submission/2245952",
+    "tags": [
+      "geometry",
+      "*1300"
+    ],
+    "timestamp": "Sep/25/2012 00:02"
+  },
   "CF2246017": {
     "contest_id": 227,
     "language": "Java 6",
