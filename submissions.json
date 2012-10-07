@@ -304,6 +304,23 @@
     ],
     "timestamp": "Oct/15/2016 17:13"
   },
+  "CF2317081": {
+    "contest_id": 231,
+    "language": "Java 6",
+    "path": "codeforces/231/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Magic Box",
+    "problem_url": "https://codeforces.com/contest/231/problem/D",
+    "submission_id": "CF2317081",
+    "submission_url": "https://codeforces.com/contest/231/submission/2317081",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*1600"
+    ],
+    "timestamp": "Oct/07/2012 22:22"
+  },
   "CF2340488": {
     "contest_id": 233,
     "language": "Java 6",
