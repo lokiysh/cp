@@ -304,6 +304,23 @@
     ],
     "timestamp": "Oct/15/2016 17:13"
   },
+  "CF2315837": {
+    "contest_id": 231,
+    "language": "Java 6",
+    "path": "codeforces/231/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Magic, Wizardry and Wonders",
+    "problem_url": "https://codeforces.com/contest/231/problem/B",
+    "submission_id": "CF2315837",
+    "submission_url": "https://codeforces.com/contest/231/submission/2315837",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Oct/07/2012 21:58"
+  },
   "CF2317081": {
     "contest_id": 231,
     "language": "Java 6",
