@@ -304,6 +304,23 @@
     ],
     "timestamp": "Oct/15/2016 17:13"
   },
+  "CF2340488": {
+    "contest_id": 233,
+    "language": "Java 6",
+    "path": "codeforces/233/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Perfect Permutation",
+    "problem_url": "https://codeforces.com/contest/233/problem/A",
+    "submission_id": "CF2340488",
+    "submission_url": "https://codeforces.com/contest/233/submission/2340488",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2012 21:09"
+  },
   "CF23423185": {
     "contest_id": 750,
     "language": "Java 8",
