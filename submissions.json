@@ -427,6 +427,22 @@
     ],
     "timestamp": "Jan/23/2017 01:31"
   },
+  "CF2426583": {
+    "contest_id": 237,
+    "language": "Java 7",
+    "path": "codeforces/237/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Free Cash",
+    "problem_url": "https://codeforces.com/contest/237/problem/A",
+    "submission_id": "CF2426583",
+    "submission_url": "https://codeforces.com/contest/237/submission/2426583",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/25/2012 21:04"
+  },
   "CF2430093": {
     "contest_id": 237,
     "language": "Java 7",
