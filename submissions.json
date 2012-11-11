@@ -532,6 +532,25 @@
     ],
     "timestamp": "Mar/05/2017 22:01"
   },
+  "CF2540444": {
+    "contest_id": 242,
+    "language": "Java 7",
+    "path": "codeforces/242/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "King's Path",
+    "problem_url": "https://codeforces.com/contest/242/problem/C",
+    "submission_id": "CF2540444",
+    "submission_url": "https://codeforces.com/contest/242/submission/2540444",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "hashing",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "Nov/12/2012 00:29"
+  },
   "CF25610445": {
     "contest_id": 791,
     "language": "Java 8",
