@@ -550,6 +550,24 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2570229": {
+    "contest_id": 244,
+    "language": "Java 7",
+    "path": "codeforces/244/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Undoubtedly Lucky Numbers",
+    "problem_url": "https://codeforces.com/contest/244/problem/B",
+    "submission_id": "CF2570229",
+    "submission_url": "https://codeforces.com/contest/244/submission/2570229",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "*1600"
+    ],
+    "timestamp": "Nov/16/2012 21:43"
+  },
   "CF2575118": {
     "contest_id": 244,
     "language": "Java 7",
