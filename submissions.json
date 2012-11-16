@@ -550,6 +550,22 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2568519": {
+    "contest_id": 244,
+    "language": "Java 7",
+    "path": "codeforces/244/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dividing Orange",
+    "problem_url": "https://codeforces.com/contest/244/problem/A",
+    "submission_id": "CF2568519",
+    "submission_url": "https://codeforces.com/contest/244/submission/2568519",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/16/2012 21:14"
+  },
   "CF2570229": {
     "contest_id": 244,
     "language": "Java 7",
