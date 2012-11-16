@@ -550,6 +550,24 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2575118": {
+    "contest_id": 244,
+    "language": "Java 7",
+    "path": "codeforces/244/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Brand New Function",
+    "problem_url": "https://codeforces.com/contest/244/problem/C",
+    "submission_id": "CF2575118",
+    "submission_url": "https://codeforces.com/contest/244/submission/2575118",
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Nov/17/2012 00:37"
+  },
   "CF2588979": {
     "contest_id": 245,
     "language": "Java 7",
