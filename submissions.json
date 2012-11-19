@@ -550,6 +550,23 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2595539": {
+    "contest_id": 245,
+    "language": "Java 7",
+    "path": "codeforces/245/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Internet Address",
+    "problem_url": "https://codeforces.com/contest/245/problem/B",
+    "submission_id": "CF2595539",
+    "submission_url": "https://codeforces.com/contest/245/submission/2595539",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Nov/19/2012 22:14"
+  },
   "CF2596980": {
     "contest_id": 245,
     "language": "Java 7",
