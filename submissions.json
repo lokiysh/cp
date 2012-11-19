@@ -550,6 +550,22 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2588979": {
+    "contest_id": 245,
+    "language": "Java 7",
+    "path": "codeforces/245/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "System Administrator",
+    "problem_url": "https://codeforces.com/contest/245/problem/A",
+    "submission_id": "CF2588979",
+    "submission_url": "https://codeforces.com/contest/245/submission/2588979",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2012 21:04"
+  },
   "CF2595539": {
     "contest_id": 245,
     "language": "Java 7",
