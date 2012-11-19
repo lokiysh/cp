@@ -550,6 +550,23 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2596980": {
+    "contest_id": 245,
+    "language": "Java 7",
+    "path": "codeforces/245/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mishap in Club",
+    "problem_url": "https://codeforces.com/contest/245/problem/E",
+    "submission_id": "CF2596980",
+    "submission_url": "https://codeforces.com/contest/245/submission/2596980",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/19/2012 22:34"
+  },
   "CF2600180": {
     "contest_id": 245,
     "language": "Java 7",
