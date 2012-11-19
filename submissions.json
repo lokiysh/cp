@@ -550,6 +550,22 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2600441": {
+    "contest_id": 245,
+    "language": "Java 7",
+    "path": "codeforces/245/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game with Coins",
+    "problem_url": "https://codeforces.com/contest/245/problem/C",
+    "submission_id": "CF2600441",
+    "submission_url": "https://codeforces.com/contest/245/submission/2600441",
+    "tags": [
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Nov/19/2012 23:21"
+  },
   "CF2612888": {
     "contest_id": 246,
     "language": "Java 7",
