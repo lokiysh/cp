@@ -550,6 +550,24 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2622244": {
+    "contest_id": 246,
+    "language": "Java 7",
+    "path": "codeforces/246/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beauty Pageant",
+    "problem_url": "https://codeforces.com/contest/246/problem/C",
+    "submission_id": "CF2622244",
+    "submission_url": "https://codeforces.com/contest/246/submission/2622244",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Nov/22/2012 00:09"
+  },
   "CF2622526": {
     "contest_id": 246,
     "language": "Java 7",
