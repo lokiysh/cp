@@ -550,6 +550,24 @@
     ],
     "timestamp": "Mar/18/2017 21:24"
   },
+  "CF2612888": {
+    "contest_id": 246,
+    "language": "Java 7",
+    "path": "codeforces/246/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buggy Sorting",
+    "problem_url": "https://codeforces.com/contest/246/problem/A",
+    "submission_id": "CF2612888",
+    "submission_url": "https://codeforces.com/contest/246/submission/2612888",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Nov/21/2012 21:14"
+  },
   "CF2622244": {
     "contest_id": 246,
     "language": "Java 7",
