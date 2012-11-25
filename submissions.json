@@ -617,6 +617,23 @@
     ],
     "timestamp": "Apr/16/2017 21:18"
   },
+  "CF2645009": {
+    "contest_id": 248,
+    "language": "Java 7",
+    "path": "codeforces/248/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chilly Willy",
+    "problem_url": "https://codeforces.com/contest/248/problem/B",
+    "submission_id": "CF2645009",
+    "submission_url": "https://codeforces.com/contest/248/submission/2645009",
+    "tags": [
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Nov/25/2012 21:38"
+  },
   "CF2658627": {
     "contest_id": 250,
     "language": "Java 7",
