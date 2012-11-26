@@ -617,6 +617,23 @@
     ],
     "timestamp": "Apr/16/2017 21:18"
   },
+  "CF2660544": {
+    "contest_id": 250,
+    "language": "Java 7",
+    "path": "codeforces/250/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restoring IPv6",
+    "problem_url": "https://codeforces.com/contest/250/problem/B",
+    "submission_id": "CF2660544",
+    "submission_url": "https://codeforces.com/contest/250/submission/2660544",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Nov/26/2012 20:20"
+  },
   "CF2661263": {
     "contest_id": 250,
     "language": "Java 7",
