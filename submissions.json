@@ -617,6 +617,22 @@
     ],
     "timestamp": "Apr/16/2017 21:18"
   },
+  "CF2661263": {
+    "contest_id": 250,
+    "language": "Java 7",
+    "path": "codeforces/250/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Movie Critics",
+    "problem_url": "https://codeforces.com/contest/250/problem/C",
+    "submission_id": "CF2661263",
+    "submission_url": "https://codeforces.com/contest/250/submission/2661263",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Nov/26/2012 20:42"
+  },
   "CF2701136": {
     "contest_id": 252,
     "language": "Java 7",
