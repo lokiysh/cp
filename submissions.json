@@ -617,6 +617,24 @@
     ],
     "timestamp": "Apr/16/2017 21:18"
   },
+  "CF2703555": {
+    "contest_id": 252,
+    "language": "Java 7",
+    "path": "codeforces/252/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Points on Line",
+    "problem_url": "https://codeforces.com/contest/252/problem/C",
+    "submission_id": "CF2703555",
+    "submission_url": "https://codeforces.com/contest/252/submission/2703555",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Dec/06/2012 21:30"
+  },
   "CF27078678": {
     "contest_id": 794,
     "language": "Java 8",
