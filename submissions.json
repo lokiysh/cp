@@ -652,6 +652,23 @@
     ],
     "timestamp": "May/13/2017 16:29"
   },
+  "CF2717252": {
+    "contest_id": 48,
+    "language": "Java 7",
+    "path": "codeforces/48/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rock-paper-scissors",
+    "problem_url": "https://codeforces.com/contest/48/problem/A",
+    "submission_id": "CF2717252",
+    "submission_url": "https://codeforces.com/contest/48/submission/2717252",
+    "tags": [
+      "implementation",
+      "schedules",
+      "*900"
+    ],
+    "timestamp": "Dec/07/2012 23:20"
+  },
   "CF2717629": {
     "contest_id": 38,
     "language": "Java 7",
