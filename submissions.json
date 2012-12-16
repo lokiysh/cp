@@ -704,6 +704,23 @@
     ],
     "timestamp": "May/21/2017 01:04"
   },
+  "CF2783449": {
+    "contest_id": 255,
+    "language": "Java 7",
+    "path": "codeforces/255/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Almost Arithmetical Progression",
+    "problem_url": "https://codeforces.com/contest/255/problem/C",
+    "submission_id": "CF2783449",
+    "submission_url": "https://codeforces.com/contest/255/submission/2783449",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Dec/17/2012 01:50"
+  },
   "CF28025990": {
     "contest_id": 821,
     "language": "Java 8",
