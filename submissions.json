@@ -755,6 +755,23 @@
     ],
     "timestamp": "Jun/25/2017 21:07"
   },
+  "CF2807597": {
+    "contest_id": 259,
+    "language": "Java 7",
+    "path": "codeforces/259/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Elephant and Chess",
+    "problem_url": "https://codeforces.com/contest/259/problem/A",
+    "submission_id": "CF2807597",
+    "submission_url": "https://codeforces.com/contest/259/submission/2807597",
+    "tags": [
+      "brute force",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/22/2012 21:03"
+  },
   "CF2809064": {
     "contest_id": 259,
     "language": "Java 7",
