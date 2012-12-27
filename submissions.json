@@ -824,6 +824,24 @@
     ],
     "timestamp": "Jul/11/2017 22:35"
   },
+  "CF2844775": {
+    "contest_id": 260,
+    "language": "Java 7",
+    "path": "codeforces/260/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ancient Prophesy",
+    "problem_url": "https://codeforces.com/contest/260/problem/B",
+    "submission_id": "CF2844775",
+    "submission_url": "https://codeforces.com/contest/260/submission/2844775",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Dec/27/2012 23:39"
+  },
   "CF2887815": {
     "contest_id": 257,
     "language": "Java 7",
