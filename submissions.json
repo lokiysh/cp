@@ -824,6 +824,24 @@
     ],
     "timestamp": "Jul/11/2017 22:35"
   },
+  "CF2887815": {
+    "contest_id": 257,
+    "language": "Java 7",
+    "path": "codeforces/257/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Playing Cubes",
+    "problem_url": "https://codeforces.com/contest/257/problem/B",
+    "submission_id": "CF2887815",
+    "submission_url": "https://codeforces.com/contest/257/submission/2887815",
+    "tags": [
+      "games",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/08/2013 21:35"
+  },
   "CF2893848": {
     "contest_id": 257,
     "language": "Java 7",
