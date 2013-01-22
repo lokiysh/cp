@@ -981,6 +981,25 @@
     ],
     "timestamp": "Aug/29/2017 20:39"
   },
+  "CF2987246": {
+    "contest_id": 266,
+    "language": "Java 7",
+    "path": "codeforces/266/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Queue at the School",
+    "problem_url": "https://codeforces.com/contest/266/problem/B",
+    "submission_id": "CF2987246",
+    "submission_url": "https://codeforces.com/contest/266/submission/2987246",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "implementation",
+      "shortest paths",
+      "*800"
+    ],
+    "timestamp": "Jan/22/2013 21:15"
+  },
   "CF29880134": {
     "contest_id": 842,
     "language": "Java 8",
