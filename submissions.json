@@ -1061,6 +1061,23 @@
     ],
     "timestamp": "Sep/08/2017 01:37"
   },
+  "CF3023235": {
+    "contest_id": 268,
+    "language": "Java 7",
+    "path": "codeforces/268/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Buttons",
+    "problem_url": "https://codeforces.com/contest/268/problem/B",
+    "submission_id": "CF3023235",
+    "submission_url": "https://codeforces.com/contest/268/submission/3023235",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/28/2013 21:20"
+  },
   "CF3029839": {
     "contest_id": 268,
     "language": "Java 7",
