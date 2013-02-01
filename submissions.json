@@ -1147,6 +1147,22 @@
     ],
     "timestamp": "Sep/19/2017 23:25"
   },
+  "CF3053807": {
+    "contest_id": 270,
+    "language": "Java 7",
+    "path": "codeforces/270/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Greenhouse Effect",
+    "problem_url": "https://codeforces.com/contest/270/problem/D",
+    "submission_id": "CF3053807",
+    "submission_url": "https://codeforces.com/contest/270/submission/3053807",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Feb/01/2013 22:08"
+  },
   "CF3058526": {
     "contest_id": 270,
     "language": "Java 7",
