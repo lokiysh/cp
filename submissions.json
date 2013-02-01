@@ -1147,6 +1147,26 @@
     ],
     "timestamp": "Sep/19/2017 23:25"
   },
+  "CF3058526": {
+    "contest_id": 270,
+    "language": "Java 7",
+    "path": "codeforces/270/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Magical Boxes",
+    "problem_url": "https://codeforces.com/contest/270/problem/C",
+    "submission_id": "CF3058526",
+    "submission_url": "https://codeforces.com/contest/270/submission/3058526",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Feb/01/2013 23:36"
+  },
   "CF30599213": {
     "contest_id": 863,
     "language": "Java 8",
