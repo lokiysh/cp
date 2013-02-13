@@ -1234,6 +1234,23 @@
     ],
     "timestamp": "Oct/01/2017 00:48"
   },
+  "CF3112294": {
+    "contest_id": 272,
+    "language": "Java 7",
+    "path": "codeforces/272/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dima and Friends",
+    "problem_url": "https://codeforces.com/contest/272/problem/A",
+    "submission_id": "CF3112294",
+    "submission_url": "https://codeforces.com/contest/272/submission/3112294",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/13/2013 21:05"
+  },
   "CF3113736": {
     "contest_id": 272,
     "language": "Java 7",
