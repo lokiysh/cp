@@ -1234,6 +1234,23 @@
     ],
     "timestamp": "Oct/01/2017 00:48"
   },
+  "CF3118068": {
+    "contest_id": 272,
+    "language": "Java 7",
+    "path": "codeforces/272/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dima and Staircase",
+    "problem_url": "https://codeforces.com/contest/272/problem/C",
+    "submission_id": "CF3118068",
+    "submission_url": "https://codeforces.com/contest/272/submission/3118068",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Feb/13/2013 21:55"
+  },
   "CF31340048": {
     "contest_id": 872,
     "language": "Java 8",
