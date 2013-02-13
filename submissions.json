@@ -1234,6 +1234,23 @@
     ],
     "timestamp": "Oct/01/2017 00:48"
   },
+  "CF3113736": {
+    "contest_id": 272,
+    "language": "Java 7",
+    "path": "codeforces/272/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dima and Sequence",
+    "problem_url": "https://codeforces.com/contest/272/problem/B",
+    "submission_id": "CF3113736",
+    "submission_url": "https://codeforces.com/contest/272/submission/3113736",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Feb/13/2013 21:15"
+  },
   "CF3118068": {
     "contest_id": 272,
     "language": "Java 7",
