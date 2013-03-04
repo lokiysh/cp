@@ -1454,6 +1454,24 @@
     ],
     "timestamp": "Nov/18/2017 13:08"
   },
+  "CF3242708": {
+    "contest_id": 279,
+    "language": "Java 7",
+    "path": "codeforces/279/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Point on Spiral",
+    "problem_url": "https://codeforces.com/contest/279/problem/A",
+    "submission_id": "CF3242708",
+    "submission_url": "https://codeforces.com/contest/279/submission/3242708",
+    "tags": [
+      "brute force",
+      "geometry",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Mar/04/2013 21:43"
+  },
   "CF32460159": {
     "contest_id": 894,
     "language": "Java 8",
