@@ -1576,6 +1576,24 @@
     ],
     "timestamp": "Dec/02/2017 21:34"
   },
+  "CF3303189": {
+    "contest_id": 282,
+    "language": "Java 7",
+    "path": "codeforces/282/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "XOR and OR",
+    "problem_url": "https://codeforces.com/contest/282/problem/C",
+    "submission_id": "CF3303189",
+    "submission_url": "https://codeforces.com/contest/282/submission/3303189",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Mar/13/2013 21:31"
+  },
   "CF3303631": {
     "contest_id": 282,
     "language": "Java 7",
