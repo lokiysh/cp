@@ -1644,6 +1644,24 @@
     ],
     "timestamp": "Dec/17/2017 12:17"
   },
+  "CF3345354": {
+    "contest_id": 283,
+    "language": "Java 7",
+    "path": "codeforces/283/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cow Program",
+    "problem_url": "https://codeforces.com/contest/283/problem/B",
+    "submission_id": "CF3345354",
+    "submission_url": "https://codeforces.com/contest/283/submission/3345354",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Mar/18/2013 01:12"
+  },
   "CF3352370": {
     "contest_id": 283,
     "language": "GNU C++",
