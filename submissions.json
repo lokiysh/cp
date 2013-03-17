@@ -1628,6 +1628,24 @@
     ],
     "timestamp": "Dec/17/2017 12:07"
   },
+  "CF3333177": {
+    "contest_id": 283,
+    "language": "Java 7",
+    "path": "codeforces/283/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cows and Sequence",
+    "problem_url": "https://codeforces.com/contest/283/problem/A",
+    "submission_id": "CF3333177",
+    "submission_url": "https://codeforces.com/contest/283/submission/3333177",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Mar/17/2013 21:19"
+  },
   "CF33333647": {
     "contest_id": 899,
     "language": "Java 8",
