@@ -1781,6 +1781,23 @@
     ],
     "timestamp": "Dec/29/2017 21:55"
   },
+  "CF3392947": {
+    "contest_id": 286,
+    "language": "Java 7",
+    "path": "codeforces/286/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Main Sequence",
+    "problem_url": "https://codeforces.com/contest/286/problem/C",
+    "submission_id": "CF3392947",
+    "submission_url": "https://codeforces.com/contest/286/submission/3392947",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Mar/23/2013 15:54"
+  },
   "CF34007026": {
     "contest_id": 913,
     "language": "Java 8",
