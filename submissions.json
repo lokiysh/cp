@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3461548": {
+    "contest_id": 289,
+    "language": "Java 7",
+    "path": "codeforces/289/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Polo the Penguin and Strings",
+    "problem_url": "https://codeforces.com/contest/289/problem/C",
+    "submission_id": "CF3461548",
+    "submission_url": "https://codeforces.com/contest/289/submission/3461548",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/02/2013 22:21"
+  },
   "CF3464345": {
     "contest_id": 289,
     "language": "Java 7",
