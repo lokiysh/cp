@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3454852": {
+    "contest_id": 289,
+    "language": "Java 7",
+    "path": "codeforces/289/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Polo the Penguin and Segments ",
+    "problem_url": "https://codeforces.com/contest/289/problem/A",
+    "submission_id": "CF3454852",
+    "submission_url": "https://codeforces.com/contest/289/submission/3454852",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/02/2013 21:14"
+  },
   "CF3460687": {
     "contest_id": 289,
     "language": "Java 7",
