@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3507491": {
+    "contest_id": 296,
+    "language": "Java 7",
+    "path": "codeforces/296/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yaroslav and Permutations",
+    "problem_url": "https://codeforces.com/contest/296/problem/A",
+    "submission_id": "CF3507491",
+    "submission_url": "https://codeforces.com/contest/296/submission/3507491",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/11/2013 21:33"
+  },
   "CF3565821": {
     "contest_id": 298,
     "language": "Java 7",
