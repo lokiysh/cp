@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3507041": {
+    "contest_id": 296,
+    "language": "Java 7",
+    "path": "codeforces/296/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Greg and Array",
+    "problem_url": "https://codeforces.com/contest/296/problem/C",
+    "submission_id": "CF3507041",
+    "submission_url": "https://codeforces.com/contest/296/submission/3507041",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/11/2013 21:27"
+  },
   "CF3507491": {
     "contest_id": 296,
     "language": "Java 7",
