@@ -1884,6 +1884,25 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3576050": {
+    "contest_id": 298,
+    "language": "Java 7",
+    "path": "codeforces/298/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Parity Game",
+    "problem_url": "https://codeforces.com/contest/298/problem/C",
+    "submission_id": "CF3576050",
+    "submission_url": "https://codeforces.com/contest/298/submission/3576050",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Apr/20/2013 00:07"
+  },
   "CF3698234": {
     "contest_id": 4,
     "language": "GNU C++",
