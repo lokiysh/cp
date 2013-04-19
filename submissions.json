@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3575995": {
+    "contest_id": 298,
+    "language": "Java 7",
+    "path": "codeforces/298/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Snow Footprints",
+    "problem_url": "https://codeforces.com/contest/298/problem/A",
+    "submission_id": "CF3575995",
+    "submission_url": "https://codeforces.com/contest/298/submission/3575995",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/20/2013 00:05"
+  },
   "CF3576050": {
     "contest_id": 298,
     "language": "Java 7",
