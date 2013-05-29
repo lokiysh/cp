@@ -1884,6 +1884,22 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3791157": {
+    "contest_id": 302,
+    "language": "Java 7",
+    "path": "codeforces/302/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eugeny and Array",
+    "problem_url": "https://codeforces.com/contest/302/problem/A",
+    "submission_id": "CF3791157",
+    "submission_url": "https://codeforces.com/contest/302/submission/3791157",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/29/2013 18:54"
+  },
   "CF3812235": {
     "contest_id": 265,
     "language": "Java 7",
