@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3812235": {
+    "contest_id": 265,
+    "language": "Java 7",
+    "path": "codeforces/265/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Roadside Trees (Simplified Edition)",
+    "problem_url": "https://codeforces.com/contest/265/problem/B",
+    "submission_id": "CF3812235",
+    "submission_url": "https://codeforces.com/contest/265/submission/3812235",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/01/2013 23:20"
+  },
   "CF3942863": {
     "contest_id": 320,
     "language": "Java 7",
