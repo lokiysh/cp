@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF3979206": {
+    "contest_id": 321,
+    "language": "Java 7",
+    "path": "codeforces/321/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ciel and Robot",
+    "problem_url": "https://codeforces.com/contest/321/problem/A",
+    "submission_id": "CF3979206",
+    "submission_url": "https://codeforces.com/contest/321/submission/3979206",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/28/2013 21:58"
+  },
   "CF4012252": {
     "contest_id": 327,
     "language": "Java 7",
