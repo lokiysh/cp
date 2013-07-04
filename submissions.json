@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4015693": {
+    "contest_id": 327,
+    "language": "Java 7",
+    "path": "codeforces/327/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Magic Five",
+    "problem_url": "https://codeforces.com/contest/327/problem/C",
+    "submission_id": "CF4015693",
+    "submission_url": "https://codeforces.com/contest/327/submission/4015693",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jul/04/2013 18:46"
+  },
   "CF4112582": {
     "contest_id": 330,
     "language": "Java 7",
