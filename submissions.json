@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4012252": {
+    "contest_id": 327,
+    "language": "Java 7",
+    "path": "codeforces/327/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Flipping Game",
+    "problem_url": "https://codeforces.com/contest/327/problem/A",
+    "submission_id": "CF4012252",
+    "submission_url": "https://codeforces.com/contest/327/submission/4012252",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/04/2013 18:10"
+  },
   "CF4012750": {
     "contest_id": 327,
     "language": "Java 7",
