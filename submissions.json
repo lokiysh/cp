@@ -1884,6 +1884,22 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4012750": {
+    "contest_id": 327,
+    "language": "Java 7",
+    "path": "codeforces/327/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hungry Sequence",
+    "problem_url": "https://codeforces.com/contest/327/problem/B",
+    "submission_id": "CF4012750",
+    "submission_url": "https://codeforces.com/contest/327/submission/4012750",
+    "tags": [
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jul/04/2013 18:14"
+  },
   "CF4015693": {
     "contest_id": 327,
     "language": "Java 7",
