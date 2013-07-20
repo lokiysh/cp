@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4112582": {
+    "contest_id": 330,
+    "language": "Java 7",
+    "path": "codeforces/330/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cakeminator",
+    "problem_url": "https://codeforces.com/contest/330/problem/A",
+    "submission_id": "CF4112582",
+    "submission_url": "https://codeforces.com/contest/330/submission/4112582",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/20/2013 19:06"
+  },
   "CF4116091": {
     "contest_id": 330,
     "language": "Java 7",
