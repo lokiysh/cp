@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4150089": {
+    "contest_id": 332,
+    "language": "Java 7",
+    "path": "codeforces/332/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Absurdity",
+    "problem_url": "https://codeforces.com/contest/332/problem/B",
+    "submission_id": "CF4150089",
+    "submission_url": "https://codeforces.com/contest/332/submission/4150089",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jul/24/2013 21:36"
+  },
   "CF4178205": {
     "contest_id": 333,
     "language": "Java 7",
