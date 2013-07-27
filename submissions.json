@@ -1884,6 +1884,22 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4187582": {
+    "contest_id": 333,
+    "language": "Java 7",
+    "path": "codeforces/333/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chips",
+    "problem_url": "https://codeforces.com/contest/333/problem/B",
+    "submission_id": "CF4187582",
+    "submission_url": "https://codeforces.com/contest/333/submission/4187582",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Jul/27/2013 16:44"
+  },
   "CF4249060": {
     "contest_id": 336,
     "language": "Java 7",
