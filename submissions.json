@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4382478": {
+    "contest_id": 340,
+    "language": "Java 7",
+    "path": "codeforces/340/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximal Area Quadrilateral",
+    "problem_url": "https://codeforces.com/contest/340/problem/B",
+    "submission_id": "CF4382478",
+    "submission_url": "https://codeforces.com/contest/340/submission/4382478",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*2100"
+    ],
+    "timestamp": "Aug/30/2013 23:27"
+  },
   "CF4461989": {
     "contest_id": 343,
     "language": "Java 7",
