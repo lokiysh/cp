@@ -1884,6 +1884,22 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4371290": {
+    "contest_id": 340,
+    "language": "Java 7",
+    "path": "codeforces/340/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Wall",
+    "problem_url": "https://codeforces.com/contest/340/problem/A",
+    "submission_id": "CF4371290",
+    "submission_url": "https://codeforces.com/contest/340/submission/4371290",
+    "tags": [
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/30/2013 21:03"
+  },
   "CF4376017": {
     "contest_id": 340,
     "language": "Java 7",
