@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4376017": {
+    "contest_id": 340,
+    "language": "Java 7",
+    "path": "codeforces/340/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bubble Sort Graph",
+    "problem_url": "https://codeforces.com/contest/340/problem/D",
+    "submission_id": "CF4376017",
+    "submission_url": "https://codeforces.com/contest/340/submission/4376017",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Aug/30/2013 21:42"
+  },
   "CF4382478": {
     "contest_id": 340,
     "language": "Java 7",
