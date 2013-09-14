@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4461989": {
+    "contest_id": 343,
+    "language": "Java 7",
+    "path": "codeforces/343/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rational Resistance",
+    "problem_url": "https://codeforces.com/contest/343/problem/A",
+    "submission_id": "CF4461989",
+    "submission_url": "https://codeforces.com/contest/343/submission/4461989",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Sep/14/2013 21:25"
+  },
   "CF4463934": {
     "contest_id": 343,
     "language": "Java 7",
