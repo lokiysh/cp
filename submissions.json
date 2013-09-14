@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4463934": {
+    "contest_id": 343,
+    "language": "Java 7",
+    "path": "codeforces/343/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alternating Current",
+    "problem_url": "https://codeforces.com/contest/343/problem/B",
+    "submission_id": "CF4463934",
+    "submission_url": "https://codeforces.com/contest/343/submission/4463934",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Sep/14/2013 21:45"
+  },
   "CF4515555": {
     "contest_id": 346,
     "language": "Java 7",
