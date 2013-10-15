@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4796216": {
+    "contest_id": 356,
+    "language": "Java 7",
+    "path": "codeforces/356/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Knight Tournament",
+    "problem_url": "https://codeforces.com/contest/356/problem/A",
+    "submission_id": "CF4796216",
+    "submission_url": "https://codeforces.com/contest/356/submission/4796216",
+    "tags": [
+      "data structures",
+      "dsu",
+      "*1500"
+    ],
+    "timestamp": "Oct/15/2013 19:02"
+  },
   "CF4963487": {
     "contest_id": 359,
     "language": "Java 7",
