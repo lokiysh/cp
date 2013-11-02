@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF4963487": {
+    "contest_id": 359,
+    "language": "Java 7",
+    "path": "codeforces/359/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation",
+    "problem_url": "https://codeforces.com/contest/359/problem/B",
+    "submission_id": "CF4963487",
+    "submission_url": "https://codeforces.com/contest/359/submission/4963487",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Nov/02/2013 14:09"
+  },
   "CF5043958": {
     "contest_id": 361,
     "language": "Java 7",
