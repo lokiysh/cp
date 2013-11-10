@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5045395": {
+    "contest_id": 361,
+    "language": "Java 7",
+    "path": "codeforces/361/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Levko and Permutation",
+    "problem_url": "https://codeforces.com/contest/361/problem/B",
+    "submission_id": "CF5045395",
+    "submission_url": "https://codeforces.com/contest/361/submission/5045395",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Nov/10/2013 22:44"
+  },
   "CF5055254": {
     "contest_id": 360,
     "language": "Java 7",
