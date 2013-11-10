@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5055254": {
+    "contest_id": 360,
+    "language": "Java 7",
+    "path": "codeforces/360/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Levko and Array Recovery",
+    "problem_url": "https://codeforces.com/contest/360/problem/A",
+    "submission_id": "CF5055254",
+    "submission_url": "https://codeforces.com/contest/360/submission/5055254",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Nov/11/2013 01:26"
+  },
   "CF5058533": {
     "contest_id": 363,
     "language": "Java 7",
