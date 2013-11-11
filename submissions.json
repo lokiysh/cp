@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5064150": {
+    "contest_id": 363,
+    "language": "Java 7",
+    "path": "codeforces/363/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Renting Bikes",
+    "problem_url": "https://codeforces.com/contest/363/problem/D",
+    "submission_id": "CF5064150",
+    "submission_url": "https://codeforces.com/contest/363/submission/5064150",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Nov/11/2013 14:40"
+  },
   "CF5162200": {
     "contest_id": 364,
     "language": "Java 7",
