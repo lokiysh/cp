@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5059357": {
+    "contest_id": 363,
+    "language": "Java 7",
+    "path": "codeforces/363/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fence",
+    "problem_url": "https://codeforces.com/contest/363/problem/B",
+    "submission_id": "CF5059357",
+    "submission_url": "https://codeforces.com/contest/363/submission/5059357",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1100"
+    ],
+    "timestamp": "Nov/11/2013 13:42"
+  },
   "CF5064150": {
     "contest_id": 363,
     "language": "Java 7",
