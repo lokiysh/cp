@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5164561": {
+    "contest_id": 364,
+    "language": "Java 7",
+    "path": "codeforces/364/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Free Market",
+    "problem_url": "https://codeforces.com/contest/364/problem/B",
+    "submission_id": "CF5164561",
+    "submission_url": "https://codeforces.com/contest/364/submission/5164561",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Nov/20/2013 00:04"
+  },
   "CF5572775": {
     "contest_id": 379,
     "language": "Java 7",
