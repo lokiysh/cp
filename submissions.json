@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5574598": {
+    "contest_id": 379,
+    "language": "Java 7",
+    "path": "codeforces/379/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year Present",
+    "problem_url": "https://codeforces.com/contest/379/problem/B",
+    "submission_id": "CF5574598",
+    "submission_url": "https://codeforces.com/contest/379/submission/5574598",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/30/2013 21:17"
+  },
   "CF5579095": {
     "contest_id": 379,
     "language": "Java 7",
