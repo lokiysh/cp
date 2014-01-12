@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5667149": {
+    "contest_id": 381,
+    "language": "Java 7",
+    "path": "codeforces/381/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Stairs",
+    "problem_url": "https://codeforces.com/contest/381/problem/B",
+    "submission_id": "CF5667149",
+    "submission_url": "https://codeforces.com/contest/381/submission/5667149",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jan/12/2014 21:09"
+  },
   "CF5711565": {
     "contest_id": 382,
     "language": "Java 7",
