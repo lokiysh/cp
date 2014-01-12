@@ -1884,6 +1884,24 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5666167": {
+    "contest_id": 381,
+    "language": "Java 7",
+    "path": "codeforces/381/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Dima",
+    "problem_url": "https://codeforces.com/contest/381/problem/A",
+    "submission_id": "CF5666167",
+    "submission_url": "https://codeforces.com/contest/381/submission/5666167",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jan/12/2014 21:02"
+  },
   "CF5667149": {
     "contest_id": 381,
     "language": "Java 7",
