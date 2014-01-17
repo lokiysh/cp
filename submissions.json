@@ -1884,6 +1884,23 @@
     ],
     "timestamp": "Jan/13/2018 19:23"
   },
+  "CF5711565": {
+    "contest_id": 382,
+    "language": "Java 7",
+    "path": "codeforces/382/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ksenia and Pan Scales",
+    "problem_url": "https://codeforces.com/contest/382/problem/A",
+    "submission_id": "CF5711565",
+    "submission_url": "https://codeforces.com/contest/382/submission/5711565",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jan/17/2014 21:07"
+  },
   "CF5715406": {
     "contest_id": 382,
     "language": "Java 7",
