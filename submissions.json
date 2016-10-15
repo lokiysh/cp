@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF21451743": {
+    "contest_id": 727,
+    "language": "Java 8",
+    "path": "codeforces/727/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Guess the Array",
+    "problem_url": "https://codeforces.com/contest/727/problem/C",
+    "submission_id": "CF21451743",
+    "submission_url": "https://codeforces.com/contest/727/submission/21451743",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Oct/15/2016 16:06"
+  },
   "CF21455816": {
     "contest_id": 727,
     "language": "Java 8",
