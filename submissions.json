@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF23423185": {
+    "contest_id": 750,
+    "language": "Java 8",
+    "path": "codeforces/750/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year and Hurry",
+    "problem_url": "https://codeforces.com/contest/750/problem/A",
+    "submission_id": "CF23423185",
+    "submission_url": "https://codeforces.com/contest/750/submission/23423185",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/30/2016 19:50"
+  },
   "CF23436087": {
     "contest_id": 750,
     "language": "Java 8",
