@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF23436087": {
+    "contest_id": 750,
+    "language": "Java 8",
+    "path": "codeforces/750/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year and North Pole",
+    "problem_url": "https://codeforces.com/contest/750/problem/B",
+    "submission_id": "CF23436087",
+    "submission_url": "https://codeforces.com/contest/750/submission/23436087",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/30/2016 20:26"
+  },
   "CF23588261": {
     "contest_id": 754,
     "language": "Java 8",
