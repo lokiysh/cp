@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF23591332": {
+    "contest_id": 754,
+    "language": "Java 8",
+    "path": "codeforces/754/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ilya and tic-tac-toe game",
+    "problem_url": "https://codeforces.com/contest/754/problem/B",
+    "submission_id": "CF23591332",
+    "submission_url": "https://codeforces.com/contest/754/submission/23591332",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jan/06/2017 20:25"
+  },
   "CF24036185": {
     "contest_id": 760,
     "language": "Java 8",
