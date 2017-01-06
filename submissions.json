@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF23588261": {
+    "contest_id": 754,
+    "language": "Java 8",
+    "path": "codeforces/754/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lesha and array splitting",
+    "problem_url": "https://codeforces.com/contest/754/problem/A",
+    "submission_id": "CF23588261",
+    "submission_url": "https://codeforces.com/contest/754/submission/23588261",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/06/2017 20:13"
+  },
   "CF23591332": {
     "contest_id": 754,
     "language": "Java 8",
