@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF24044061": {
+    "contest_id": 760,
+    "language": "Java 8",
+    "path": "codeforces/760/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Frodo and pillows",
+    "problem_url": "https://codeforces.com/contest/760/problem/B",
+    "submission_id": "CF24044061",
+    "submission_url": "https://codeforces.com/contest/760/submission/24044061",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jan/23/2017 00:32"
+  },
   "CF24051018": {
     "contest_id": 760,
     "language": "Java 8",
