@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF24051018": {
+    "contest_id": 760,
+    "language": "Java 8",
+    "path": "codeforces/760/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pavel and barbecue",
+    "problem_url": "https://codeforces.com/contest/760/problem/C",
+    "submission_id": "CF24051018",
+    "submission_url": "https://codeforces.com/contest/760/submission/24051018",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Jan/23/2017 01:31"
+  },
   "CF24828295": {
     "contest_id": 768,
     "language": "Java 8",
