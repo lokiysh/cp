@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF24036185": {
+    "contest_id": 760,
+    "language": "Java 8",
+    "path": "codeforces/760/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petr and a calendar",
+    "problem_url": "https://codeforces.com/contest/760/problem/A",
+    "submission_id": "CF24036185",
+    "submission_url": "https://codeforces.com/contest/760/submission/24036185",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/22/2017 23:50"
+  },
   "CF24044061": {
     "contest_id": 760,
     "language": "Java 8",
