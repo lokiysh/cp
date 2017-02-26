@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF25050635": {
+    "contest_id": 779,
+    "language": "Java 8",
+    "path": "codeforces/779/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "String Game",
+    "problem_url": "https://codeforces.com/contest/779/problem/D",
+    "submission_id": "CF25050635",
+    "submission_url": "https://codeforces.com/contest/779/submission/25050635",
+    "tags": [
+      "binary search",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Feb/26/2017 16:40"
+  },
   "CF25252980": {
     "contest_id": 782,
     "language": "Java 8",
