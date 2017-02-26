@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF25040788": {
+    "contest_id": 779,
+    "language": "Java 8",
+    "path": "codeforces/779/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Weird Rounding",
+    "problem_url": "https://codeforces.com/contest/779/problem/B",
+    "submission_id": "CF25040788",
+    "submission_url": "https://codeforces.com/contest/779/submission/25040788",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Feb/26/2017 14:24"
+  },
   "CF25050635": {
     "contest_id": 779,
     "language": "Java 8",
