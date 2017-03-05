@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF25252980": {
+    "contest_id": 782,
+    "language": "Java 8",
+    "path": "codeforces/782/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Meeting Place Cannot Be Changed",
+    "problem_url": "https://codeforces.com/contest/782/problem/B",
+    "submission_id": "CF25252980",
+    "submission_url": "https://codeforces.com/contest/782/submission/25252980",
+    "tags": [
+      "binary search",
+      "ternary search",
+      "*1600"
+    ],
+    "timestamp": "Mar/05/2017 19:07"
+  },
   "CF25267967": {
     "contest_id": 782,
     "language": "Java 8",
