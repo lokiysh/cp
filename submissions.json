@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF25267967": {
+    "contest_id": 782,
+    "language": "Java 8",
+    "path": "codeforces/782/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Andryusha and Colored Balloons",
+    "problem_url": "https://codeforces.com/contest/782/problem/C",
+    "submission_id": "CF25267967",
+    "submission_url": "https://codeforces.com/contest/782/submission/25267967",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Mar/05/2017 22:01"
+  },
   "CF25610445": {
     "contest_id": 791,
     "language": "Java 8",
