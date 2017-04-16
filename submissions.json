@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF26419714": {
+    "contest_id": 801,
+    "language": "Java 8",
+    "path": "codeforces/801/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Valued Keys",
+    "problem_url": "https://codeforces.com/contest/801/problem/B",
+    "submission_id": "CF26419714",
+    "submission_url": "https://codeforces.com/contest/801/submission/26419714",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Apr/16/2017 21:18"
+  },
   "CF27078678": {
     "contest_id": 794,
     "language": "Java 8",
