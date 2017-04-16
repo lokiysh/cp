@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF26418318": {
+    "contest_id": 801,
+    "language": "Java 8",
+    "path": "codeforces/801/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vicious Keyboard",
+    "problem_url": "https://codeforces.com/contest/801/problem/A",
+    "submission_id": "CF26418318",
+    "submission_url": "https://codeforces.com/contest/801/submission/26418318",
+    "tags": [
+      "brute force",
+      "*1100"
+    ],
+    "timestamp": "Apr/16/2017 21:14"
+  },
   "CF26419714": {
     "contest_id": 801,
     "language": "Java 8",
