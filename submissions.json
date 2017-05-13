@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF27083364": {
+    "contest_id": 794,
+    "language": "Java 8",
+    "path": "codeforces/794/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Naming Company",
+    "problem_url": "https://codeforces.com/contest/794/problem/C",
+    "submission_id": "CF27083364",
+    "submission_url": "https://codeforces.com/contest/794/submission/27083364",
+    "tags": [
+      "games",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/13/2017 16:29"
+  },
   "CF27239434": {
     "contest_id": 810,
     "language": "Java 8",
