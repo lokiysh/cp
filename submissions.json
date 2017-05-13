@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF27078678": {
+    "contest_id": 794,
+    "language": "Java 8",
+    "path": "codeforces/794/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cutting Carrot",
+    "problem_url": "https://codeforces.com/contest/794/problem/B",
+    "submission_id": "CF27078678",
+    "submission_url": "https://codeforces.com/contest/794/submission/27078678",
+    "tags": [
+      "geometry",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/13/2017 15:46"
+  },
   "CF27083364": {
     "contest_id": 794,
     "language": "Java 8",
