@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF27249695": {
+    "contest_id": 810,
+    "language": "Java 8",
+    "path": "codeforces/810/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Do you want a date?",
+    "problem_url": "https://codeforces.com/contest/810/problem/C",
+    "submission_id": "CF27249695",
+    "submission_url": "https://codeforces.com/contest/810/submission/27249695",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/21/2017 01:04"
+  },
   "CF28025990": {
     "contest_id": 821,
     "language": "Java 8",
