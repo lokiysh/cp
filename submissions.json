@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF28025990": {
+    "contest_id": 821,
+    "language": "Java 8",
+    "path": "codeforces/821/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Okabe and Future Gadget Laboratory",
+    "problem_url": "https://codeforces.com/contest/821/problem/A",
+    "submission_id": "CF28025990",
+    "submission_url": "https://codeforces.com/contest/821/submission/28025990",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/25/2017 20:28"
+  },
   "CF28028907": {
     "contest_id": 821,
     "language": "Java 8",
