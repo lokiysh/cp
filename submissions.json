@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF28235354": {
+    "contest_id": 822,
+    "language": "Java 8",
+    "path": "codeforces/822/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hacker, pack your bags!",
+    "problem_url": "https://codeforces.com/contest/822/problem/C",
+    "submission_id": "CF28235354",
+    "submission_url": "https://codeforces.com/contest/822/submission/28235354",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Jul/03/2017 00:58"
+  },
   "CF28431691": {
     "contest_id": 828,
     "language": "Java 8",
