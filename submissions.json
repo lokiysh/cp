@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF28431691": {
+    "contest_id": 828,
+    "language": "Java 8",
+    "path": "codeforces/828/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Restaurant Tables",
+    "problem_url": "https://codeforces.com/contest/828/problem/A",
+    "submission_id": "CF28431691",
+    "submission_url": "https://codeforces.com/contest/828/submission/28431691",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/11/2017 22:20"
+  },
   "CF28435586": {
     "contest_id": 828,
     "language": "Java 8",
