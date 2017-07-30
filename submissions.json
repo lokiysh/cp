@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF28994189": {
+    "contest_id": 834,
+    "language": "Java 8",
+    "path": "codeforces/834/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Useless Toy",
+    "problem_url": "https://codeforces.com/contest/834/problem/A",
+    "submission_id": "CF28994189",
+    "submission_url": "https://codeforces.com/contest/834/submission/28994189",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/30/2017 20:16"
+  },
   "CF28998911": {
     "contest_id": 834,
     "language": "Java 8",
