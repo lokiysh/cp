@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF28998911": {
+    "contest_id": 834,
+    "language": "Java 8",
+    "path": "codeforces/834/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Festive Evening",
+    "problem_url": "https://codeforces.com/contest/834/problem/B",
+    "submission_id": "CF28998911",
+    "submission_url": "https://codeforces.com/contest/834/submission/28998911",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jul/30/2017 20:31"
+  },
   "CF29374691": {
     "contest_id": 825,
     "language": "Java 8",
