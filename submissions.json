@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF29374691": {
+    "contest_id": 825,
+    "language": "Java 8",
+    "path": "codeforces/825/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Multi-judge Solving",
+    "problem_url": "https://codeforces.com/contest/825/problem/C",
+    "submission_id": "CF29374691",
+    "submission_url": "https://codeforces.com/contest/825/submission/29374691",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Aug/12/2017 15:48"
+  },
   "CF29391329": {
     "contest_id": 839,
     "language": "Java 8",
