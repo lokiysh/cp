@@ -250,6 +250,26 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF29840123": {
+    "contest_id": 840,
+    "language": "Java 8",
+    "path": "codeforces/840/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Leha and Function",
+    "problem_url": "https://codeforces.com/contest/840/problem/A",
+    "submission_id": "CF29840123",
+    "submission_url": "https://codeforces.com/contest/840/submission/29840123",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Aug/28/2017 12:41"
+  },
   "CF29841069": {
     "contest_id": 813,
     "language": "Java 8",
