@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF29988809": {
+    "contest_id": 849,
+    "language": "Java 8",
+    "path": "codeforces/849/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tell Your World",
+    "problem_url": "https://codeforces.com/contest/849/problem/B",
+    "submission_id": "CF29988809",
+    "submission_url": "https://codeforces.com/contest/849/submission/29988809",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*1600"
+    ],
+    "timestamp": "Sep/01/2017 20:49"
+  },
   "CF30190089": {
     "contest_id": 854,
     "language": "Java 8",
