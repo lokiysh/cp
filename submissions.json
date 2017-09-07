@@ -250,6 +250,21 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30190089": {
+    "contest_id": 854,
+    "language": "Java 8",
+    "path": "codeforces/854/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Planning",
+    "problem_url": "https://codeforces.com/contest/854/problem/C",
+    "submission_id": "CF30190089",
+    "submission_url": "https://codeforces.com/contest/854/submission/30190089",
+    "tags": [
+      "*1500"
+    ],
+    "timestamp": "Sep/08/2017 01:37"
+  },
   "CF30425240": {
     "contest_id": 861,
     "language": "Java 8",
