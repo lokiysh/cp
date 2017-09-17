@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30441433": {
+    "contest_id": 861,
+    "language": "Java 8",
+    "path": "codeforces/861/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Did you mean...",
+    "problem_url": "https://codeforces.com/contest/861/problem/C",
+    "submission_id": "CF30441433",
+    "submission_url": "https://codeforces.com/contest/861/submission/30441433",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Sep/17/2017 20:17"
+  },
   "CF30502999": {
     "contest_id": 862,
     "language": "Java 8",
