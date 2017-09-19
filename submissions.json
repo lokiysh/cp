@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30524764": {
+    "contest_id": 862,
+    "language": "Java 8",
+    "path": "codeforces/862/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mahmoud and Ehab and the xor",
+    "problem_url": "https://codeforces.com/contest/862/problem/C",
+    "submission_id": "CF30524764",
+    "submission_url": "https://codeforces.com/contest/862/submission/30524764",
+    "tags": [
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "Sep/19/2017 23:25"
+  },
   "CF30599213": {
     "contest_id": 863,
     "language": "Java 8",
