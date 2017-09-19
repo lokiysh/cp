@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30502999": {
+    "contest_id": 862,
+    "language": "Java 8",
+    "path": "codeforces/862/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mahmoud and Ehab and the MEX",
+    "problem_url": "https://codeforces.com/contest/862/problem/A",
+    "submission_id": "CF30502999",
+    "submission_url": "https://codeforces.com/contest/862/submission/30502999",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Sep/19/2017 20:39"
+  },
   "CF30507466": {
     "contest_id": 862,
     "language": "Java 8",
