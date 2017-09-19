@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30507466": {
+    "contest_id": 862,
+    "language": "Java 8",
+    "path": "codeforces/862/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mahmoud and Ehab and the bipartiteness",
+    "problem_url": "https://codeforces.com/contest/862/problem/B",
+    "submission_id": "CF30507466",
+    "submission_url": "https://codeforces.com/contest/862/submission/30507466",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Sep/19/2017 20:56"
+  },
   "CF30524764": {
     "contest_id": 862,
     "language": "Java 8",
