@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30599213": {
+    "contest_id": 863,
+    "language": "Java 8",
+    "path": "codeforces/863/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Array Queries Problem",
+    "problem_url": "https://codeforces.com/contest/863/problem/D",
+    "submission_id": "CF30599213",
+    "submission_url": "https://codeforces.com/contest/863/submission/30599213",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Sep/22/2017 02:03"
+  },
   "CF30668846": {
     "contest_id": 855,
     "language": "Java 8",
