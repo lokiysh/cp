@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30668846": {
+    "contest_id": 855,
+    "language": "Java 8",
+    "path": "codeforces/855/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tom Riddle's Diary",
+    "problem_url": "https://codeforces.com/contest/855/problem/A",
+    "submission_id": "CF30668846",
+    "submission_url": "https://codeforces.com/contest/855/submission/30668846",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/24/2017 20:07"
+  },
   "CF30675657": {
     "contest_id": 855,
     "language": "Java 8",
