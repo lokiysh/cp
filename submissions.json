@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30882673": {
+    "contest_id": 867,
+    "language": "Java 8",
+    "path": "codeforces/867/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Save the problem!",
+    "problem_url": "https://codeforces.com/contest/867/problem/B",
+    "submission_id": "CF30882673",
+    "submission_url": "https://codeforces.com/contest/867/submission/30882673",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Oct/01/2017 00:48"
+  },
   "CF31340048": {
     "contest_id": 872,
     "language": "Java 8",
