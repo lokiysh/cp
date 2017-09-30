@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF30873273": {
+    "contest_id": 867,
+    "language": "Java 8",
+    "path": "codeforces/867/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Between the Offices",
+    "problem_url": "https://codeforces.com/contest/867/problem/A",
+    "submission_id": "CF30873273",
+    "submission_url": "https://codeforces.com/contest/867/submission/30873273",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/30/2017 22:40"
+  },
   "CF30882673": {
     "contest_id": 867,
     "language": "Java 8",
