@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF31340048": {
+    "contest_id": 872,
+    "language": "Java 8",
+    "path": "codeforces/872/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Search for Pretty Integers",
+    "problem_url": "https://codeforces.com/contest/872/problem/A",
+    "submission_id": "CF31340048",
+    "submission_url": "https://codeforces.com/contest/872/submission/31340048",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Oct/15/2017 13:53"
+  },
   "CF31636953": {
     "contest_id": 877,
     "language": "Java 8",
