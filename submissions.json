@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF31636953": {
+    "contest_id": 877,
+    "language": "Java 8",
+    "path": "codeforces/877/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alex and broken contest",
+    "problem_url": "https://codeforces.com/contest/877/problem/A",
+    "submission_id": "CF31636953",
+    "submission_url": "https://codeforces.com/contest/877/submission/31636953",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Oct/23/2017 21:26"
+  },
   "CF31650266": {
     "contest_id": 877,
     "language": "Java 8",
