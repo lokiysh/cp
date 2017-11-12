@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF32249110": {
+    "contest_id": 890,
+    "language": "Java 8",
+    "path": "codeforces/890/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ACM ICPC",
+    "problem_url": "https://codeforces.com/contest/890/problem/A",
+    "submission_id": "CF32249110",
+    "submission_url": "https://codeforces.com/contest/890/submission/32249110",
+    "tags": [
+      "brute force",
+      "*1000"
+    ],
+    "timestamp": "Nov/12/2017 21:40"
+  },
   "CF32259462": {
     "contest_id": 890,
     "language": "Java 8",
