@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF32272854": {
+    "contest_id": 890,
+    "language": "Java 8",
+    "path": "codeforces/890/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Restoration of string",
+    "problem_url": "https://codeforces.com/contest/890/problem/D",
+    "submission_id": "CF32272854",
+    "submission_url": "https://codeforces.com/contest/890/submission/32272854",
+    "tags": [
+      "graphs",
+      "greedy",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Nov/13/2017 03:26"
+  },
   "CF32382355": {
     "contest_id": 892,
     "language": "Java 8",
