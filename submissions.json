@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF32864771": {
+    "contest_id": 897,
+    "language": "Java 8",
+    "path": "codeforces/897/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chtholly's request",
+    "problem_url": "https://codeforces.com/contest/897/problem/B",
+    "submission_id": "CF32864771",
+    "submission_url": "https://codeforces.com/contest/897/submission/32864771",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Dec/02/2017 19:53"
+  },
   "CF32868496": {
     "contest_id": 897,
     "language": "Java 8",
