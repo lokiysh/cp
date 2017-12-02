@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF32860467": {
+    "contest_id": 897,
+    "language": "Java 8",
+    "path": "codeforces/897/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Scarborough Fair",
+    "problem_url": "https://codeforces.com/contest/897/problem/A",
+    "submission_id": "CF32860467",
+    "submission_url": "https://codeforces.com/contest/897/submission/32860467",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/02/2017 19:38"
+  },
   "CF32864771": {
     "contest_id": 897,
     "language": "Java 8",
