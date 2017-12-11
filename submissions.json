@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF33111469": {
+    "contest_id": 900,
+    "language": "Java 8",
+    "path": "codeforces/900/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Extra One",
+    "problem_url": "https://codeforces.com/contest/900/problem/A",
+    "submission_id": "CF33111469",
+    "submission_url": "https://codeforces.com/contest/900/submission/33111469",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/11/2017 21:38"
+  },
   "CF33114707": {
     "contest_id": 900,
     "language": "Java 8",
