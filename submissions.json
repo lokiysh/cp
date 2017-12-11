@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF33114707": {
+    "contest_id": 900,
+    "language": "Java 8",
+    "path": "codeforces/900/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Position in Fraction",
+    "problem_url": "https://codeforces.com/contest/900/problem/B",
+    "submission_id": "CF33114707",
+    "submission_url": "https://codeforces.com/contest/900/submission/33114707",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Dec/11/2017 21:46"
+  },
   "CF33330767": {
     "contest_id": 899,
     "language": "Java 8",
