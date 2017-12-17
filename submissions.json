@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF33330767": {
+    "contest_id": 899,
+    "language": "Java 8",
+    "path": "codeforces/899/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Splitting in Teams",
+    "problem_url": "https://codeforces.com/contest/899/problem/A",
+    "submission_id": "CF33330767",
+    "submission_url": "https://codeforces.com/contest/899/submission/33330767",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/17/2017 12:07"
+  },
   "CF33333647": {
     "contest_id": 899,
     "language": "Java 8",
