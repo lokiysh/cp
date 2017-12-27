@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF33694087": {
+    "contest_id": 909,
+    "language": "Java 8",
+    "path": "codeforces/909/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Python Indentation",
+    "problem_url": "https://codeforces.com/contest/909/problem/C",
+    "submission_id": "CF33694087",
+    "submission_url": "https://codeforces.com/contest/909/submission/33694087",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Dec/28/2017 01:00"
+  },
   "CF33713735": {
     "contest_id": 911,
     "language": "Java 8",
