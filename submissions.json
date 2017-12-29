@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF33764437": {
+    "contest_id": 908,
+    "language": "Java 8",
+    "path": "codeforces/908/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year and Counting Cards",
+    "problem_url": "https://codeforces.com/contest/908/problem/A",
+    "submission_id": "CF33764437",
+    "submission_url": "https://codeforces.com/contest/908/submission/33764437",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/29/2017 21:13"
+  },
   "CF33773748": {
     "contest_id": 908,
     "language": "Java 8",
