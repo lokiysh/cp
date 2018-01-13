@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF34132150": {
+    "contest_id": 915,
+    "language": "Java 8",
+    "path": "codeforces/915/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Browser",
+    "problem_url": "https://codeforces.com/contest/915/problem/B",
+    "submission_id": "CF34132150",
+    "submission_url": "https://codeforces.com/contest/915/submission/34132150",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/13/2018 18:49"
+  },
   "CF34139928": {
     "contest_id": 915,
     "language": "Java 8",
