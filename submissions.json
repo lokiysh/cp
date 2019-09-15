@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF60639470": {
+    "contest_id": 1215,
+    "language": "Java 8",
+    "path": "codeforces/1215/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ticket Game",
+    "problem_url": "https://codeforces.com/contest/1215/problem/D",
+    "submission_id": "CF60639470",
+    "submission_url": "https://codeforces.com/contest/1215/submission/60639470",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/15/2019 20:30"
+  },
   "CF60783591": {
     "contest_id": 1220,
     "language": "Java 8",
