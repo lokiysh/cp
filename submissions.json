@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF60628756": {
+    "contest_id": 1215,
+    "language": "Java 8",
+    "path": "codeforces/1215/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swap Letters",
+    "problem_url": "https://codeforces.com/contest/1215/problem/C",
+    "submission_id": "CF60628756",
+    "submission_url": "https://codeforces.com/contest/1215/submission/60628756",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Sep/15/2019 17:35"
+  },
   "CF60639064": {
     "contest_id": 1215,
     "language": "Java 8",
