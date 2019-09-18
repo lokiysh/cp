@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF60788276": {
+    "contest_id": 1220,
+    "language": "Java 8",
+    "path": "codeforces/1220/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multiplication Table",
+    "problem_url": "https://codeforces.com/contest/1220/problem/B",
+    "submission_id": "CF60788276",
+    "submission_url": "https://codeforces.com/contest/1220/submission/60788276",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Sep/18/2019 21:52"
+  },
   "CF60835078": {
     "contest_id": 1220,
     "language": "Java 8",
