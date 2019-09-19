@@ -250,6 +250,27 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF60835078": {
+    "contest_id": 1220,
+    "language": "Java 8",
+    "path": "codeforces/1220/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tourism",
+    "problem_url": "https://codeforces.com/contest/1220/problem/E",
+    "submission_id": "CF60835078",
+    "submission_url": "https://codeforces.com/contest/1220/submission/60835078",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Sep/19/2019 14:09"
+  },
   "CF61126353": {
     "contest_id": 1230,
     "language": "Java 8",
