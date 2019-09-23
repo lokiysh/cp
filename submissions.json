@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF61127324": {
+    "contest_id": 1230,
+    "language": "Java 8",
+    "path": "codeforces/1230/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dawid and Bags of Candies",
+    "problem_url": "https://codeforces.com/contest/1230/problem/A",
+    "submission_id": "CF61127324",
+    "submission_url": "https://codeforces.com/contest/1230/submission/61127324",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/23/2019 19:45"
+  },
   "CF61158091": {
     "contest_id": 1230,
     "language": "Java 8",
