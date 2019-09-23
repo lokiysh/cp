@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF61158091": {
+    "contest_id": 1230,
+    "language": "Java 8",
+    "path": "codeforces/1230/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Anadi and Domino",
+    "problem_url": "https://codeforces.com/contest/1230/problem/C",
+    "submission_id": "CF61158091",
+    "submission_url": "https://codeforces.com/contest/1230/submission/61158091",
+    "tags": [
+      "brute force",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Sep/23/2019 21:02"
+  },
   "CF61474752": {
     "contest_id": 1228,
     "language": "Java 8",
