@@ -250,6 +250,26 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF61501750": {
+    "contest_id": 1228,
+    "language": "Java 8",
+    "path": "codeforces/1228/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Complete Tripartite",
+    "problem_url": "https://codeforces.com/contest/1228/problem/D",
+    "submission_id": "CF61501750",
+    "submission_url": "https://codeforces.com/contest/1228/submission/61501750",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "hashing",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Sep/29/2019 20:09"
+  },
   "CF61509908": {
     "contest_id": 1228,
     "language": "Java 8",
