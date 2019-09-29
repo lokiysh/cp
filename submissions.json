@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF61509908": {
+    "contest_id": 1228,
+    "language": "Java 8",
+    "path": "codeforces/1228/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Filling the Grid",
+    "problem_url": "https://codeforces.com/contest/1228/problem/B",
+    "submission_id": "CF61509908",
+    "submission_url": "https://codeforces.com/contest/1228/submission/61509908",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Sep/29/2019 21:20"
+  },
   "CF61614997": {
     "contest_id": 1234,
     "language": "Java 8",
