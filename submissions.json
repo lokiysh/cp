@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF61492646": {
+    "contest_id": 1228,
+    "language": "Java 8",
+    "path": "codeforces/1228/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Primes and Multiplication",
+    "problem_url": "https://codeforces.com/contest/1228/problem/C",
+    "submission_id": "CF61492646",
+    "submission_url": "https://codeforces.com/contest/1228/submission/61492646",
+    "tags": [
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Sep/29/2019 19:30"
+  },
   "CF61501750": {
     "contest_id": 1228,
     "language": "Java 8",
