@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF61474752": {
+    "contest_id": 1228,
+    "language": "Java 8",
+    "path": "codeforces/1228/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Distinct Digits",
+    "problem_url": "https://codeforces.com/contest/1228/problem/A",
+    "submission_id": "CF61474752",
+    "submission_url": "https://codeforces.com/contest/1228/submission/61474752",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/29/2019 18:38"
+  },
   "CF61492646": {
     "contest_id": 1228,
     "language": "Java 8",
