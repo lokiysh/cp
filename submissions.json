@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF61674898": {
+    "contest_id": 1234,
+    "language": "Java 8",
+    "path": "codeforces/1234/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Distinct Characters Queries",
+    "problem_url": "https://codeforces.com/contest/1234/problem/D",
+    "submission_id": "CF61674898",
+    "submission_url": "https://codeforces.com/contest/1234/submission/61674898",
+    "tags": [
+      "data structures",
+      "*1600"
+    ],
+    "timestamp": "Oct/02/2019 01:35"
+  },
   "CF61991971": {
     "contest_id": 1241,
     "language": "Java 8",
