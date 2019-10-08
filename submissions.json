@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF62126623": {
+    "contest_id": 1238,
+    "language": "Java 8",
+    "path": "codeforces/1238/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kill `Em All",
+    "problem_url": "https://codeforces.com/contest/1238/problem/B",
+    "submission_id": "CF62126623",
+    "submission_url": "https://codeforces.com/contest/1238/submission/62126623",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Oct/08/2019 20:18"
+  },
   "CF62128805": {
     "contest_id": 1238,
     "language": "Java 8",
