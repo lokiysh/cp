@@ -250,6 +250,27 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF62511778": {
+    "contest_id": 1244,
+    "language": "Java 8",
+    "path": "codeforces/1244/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Paint the Tree",
+    "problem_url": "https://codeforces.com/contest/1244/problem/D",
+    "submission_id": "CF62511778",
+    "submission_url": "https://codeforces.com/contest/1244/submission/62511778",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "implementation",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Oct/13/2019 19:00"
+  },
   "CF63136087": {
     "contest_id": 1249,
     "language": "Java 8",
