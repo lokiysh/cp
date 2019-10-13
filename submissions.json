@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF62470833": {
+    "contest_id": 1244,
+    "language": "Java 8",
+    "path": "codeforces/1244/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rooms and Staircases",
+    "problem_url": "https://codeforces.com/contest/1244/problem/B",
+    "submission_id": "CF62470833",
+    "submission_url": "https://codeforces.com/contest/1244/submission/62470833",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/13/2019 14:51"
+  },
   "CF62507862": {
     "contest_id": 1244,
     "language": "Java 8",
