@@ -250,6 +250,27 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF62510076": {
+    "contest_id": 1244,
+    "language": "Java 8",
+    "path": "codeforces/1244/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Minimizing Difference",
+    "problem_url": "https://codeforces.com/contest/1244/problem/E",
+    "submission_id": "CF62510076",
+    "submission_url": "https://codeforces.com/contest/1244/submission/62510076",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "ternary search",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Oct/13/2019 18:40"
+  },
   "CF62511778": {
     "contest_id": 1244,
     "language": "Java 8",
