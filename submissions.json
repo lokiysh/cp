@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63188925": {
+    "contest_id": 1249,
+    "language": "Java 8",
+    "path": "codeforces/1249/D2.java",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Too Many Segments (hard version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/D2",
+    "submission_id": "CF63188925",
+    "submission_url": "https://codeforces.com/contest/1249/submission/63188925",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Oct/22/2019 22:23"
+  },
   "CF63202254": {
     "contest_id": 1249,
     "language": "Java 8",
