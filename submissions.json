@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63136087": {
+    "contest_id": 1249,
+    "language": "Java 8",
+    "path": "codeforces/1249/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Dividing into Teams",
+    "problem_url": "https://codeforces.com/contest/1249/problem/A",
+    "submission_id": "CF63136087",
+    "submission_url": "https://codeforces.com/contest/1249/submission/63136087",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/22/2019 20:13"
+  },
   "CF63140932": {
     "contest_id": 1249,
     "language": "Java 8",
