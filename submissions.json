@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63202254": {
+    "contest_id": 1249,
+    "language": "Java 8",
+    "path": "codeforces/1249/F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Maximum Weight Subset",
+    "problem_url": "https://codeforces.com/contest/1249/problem/F",
+    "submission_id": "CF63202254",
+    "submission_url": "https://codeforces.com/contest/1249/submission/63202254",
+    "tags": [
+      "dp",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Oct/23/2019 02:45"
+  },
   "CF63340304": {
     "contest_id": 1251,
     "language": "Java 8",
