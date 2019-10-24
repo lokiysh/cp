@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63346171": {
+    "contest_id": 1251,
+    "language": "Java 8",
+    "path": "codeforces/1251/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Salary Changing",
+    "problem_url": "https://codeforces.com/contest/1251/problem/D",
+    "submission_id": "CF63346171",
+    "submission_url": "https://codeforces.com/contest/1251/submission/63346171",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Oct/25/2019 00:52"
+  },
   "CF63350115": {
     "contest_id": 1251,
     "language": "Java 8",
