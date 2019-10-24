@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63350124": {
+    "contest_id": 1251,
+    "language": "Java 8",
+    "path": "codeforces/1251/E1.java",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Voting (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1251/problem/E1",
+    "submission_id": "CF63350124",
+    "submission_url": "https://codeforces.com/contest/1251/submission/63350124",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Oct/25/2019 02:47"
+  },
   "CF63443278": {
     "contest_id": 1247,
     "language": "Java 8",
