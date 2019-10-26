@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63514895": {
+    "contest_id": 1247,
+    "language": "Java 8",
+    "path": "codeforces/1247/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Rock Is Push",
+    "problem_url": "https://codeforces.com/contest/1247/problem/E",
+    "submission_id": "CF63514895",
+    "submission_url": "https://codeforces.com/contest/1247/submission/63514895",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "Oct/27/2019 04:41"
+  },
   "CF63515469": {
     "contest_id": 1246,
     "language": "Java 8",
