@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63489009": {
+    "contest_id": 1247,
+    "language": "Java 8",
+    "path": "codeforces/1247/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Power Products",
+    "problem_url": "https://codeforces.com/contest/1247/problem/D",
+    "submission_id": "CF63489009",
+    "submission_url": "https://codeforces.com/contest/1247/submission/63489009",
+    "tags": [
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Oct/26/2019 19:40"
+  },
   "CF63514895": {
     "contest_id": 1247,
     "language": "Java 8",
