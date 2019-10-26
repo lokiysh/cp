@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF63443278": {
+    "contest_id": 1247,
+    "language": "Java 8",
+    "path": "codeforces/1247/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forgetting Things",
+    "problem_url": "https://codeforces.com/contest/1247/problem/A",
+    "submission_id": "CF63443278",
+    "submission_url": "https://codeforces.com/contest/1247/submission/63443278",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/26/2019 16:43"
+  },
   "CF63448858": {
     "contest_id": 1247,
     "language": "Java 8",
