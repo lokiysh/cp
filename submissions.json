@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF64001127": {
+    "contest_id": 1245,
+    "language": "Java 8",
+    "path": "codeforces/1245/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restricted RPS",
+    "problem_url": "https://codeforces.com/contest/1245/problem/B",
+    "submission_id": "CF64001127",
+    "submission_url": "https://codeforces.com/contest/1245/submission/64001127",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Nov/01/2019 20:19"
+  },
   "CF64025847": {
     "contest_id": 1245,
     "language": "Java 8",
