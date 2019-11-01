@@ -250,6 +250,26 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF64053010": {
+    "contest_id": 1245,
+    "language": "Java 8",
+    "path": "codeforces/1245/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Shichikuji and Power Grid",
+    "problem_url": "https://codeforces.com/contest/1245/problem/D",
+    "submission_id": "CF64053010",
+    "submission_url": "https://codeforces.com/contest/1245/submission/64053010",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Nov/02/2019 04:33"
+  },
   "CF64089220": {
     "contest_id": 1245,
     "language": "Java 8",
