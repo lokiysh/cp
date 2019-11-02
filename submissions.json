@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF64098342": {
+    "contest_id": 1245,
+    "language": "Java 8",
+    "path": "codeforces/1245/F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Daniel and Spring Cleaning",
+    "problem_url": "https://codeforces.com/contest/1245/problem/F",
+    "submission_id": "CF64098342",
+    "submission_url": "https://codeforces.com/contest/1245/submission/64098342",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "Nov/02/2019 20:07"
+  },
   "CF64373962": {
     "contest_id": 1243,
     "language": "Java 8",
