@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF64089220": {
+    "contest_id": 1245,
+    "language": "Java 8",
+    "path": "codeforces/1245/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hyakugoku and Ladders",
+    "problem_url": "https://codeforces.com/contest/1245/problem/E",
+    "submission_id": "CF64089220",
+    "submission_url": "https://codeforces.com/contest/1245/submission/64089220",
+    "tags": [
+      "dp",
+      "probabilities",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "Nov/02/2019 17:39"
+  },
   "CF64098342": {
     "contest_id": 1245,
     "language": "Java 8",
