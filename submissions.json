@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF64373962": {
+    "contest_id": 1243,
+    "language": "Java 8",
+    "path": "codeforces/1243/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximum Square",
+    "problem_url": "https://codeforces.com/contest/1243/problem/A",
+    "submission_id": "CF64373962",
+    "submission_url": "https://codeforces.com/contest/1243/submission/64373962",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/06/2019 20:38"
+  },
   "CF64379009": {
     "contest_id": 1243,
     "language": "Java 8",
