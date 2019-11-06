@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF64427923": {
+    "contest_id": 1243,
+    "language": "Java 8",
+    "path": "codeforces/1243/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "0-1 MST",
+    "problem_url": "https://codeforces.com/contest/1243/problem/D",
+    "submission_id": "CF64427923",
+    "submission_url": "https://codeforces.com/contest/1243/submission/64427923",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Nov/07/2019 01:25"
+  },
   "CF71708119": {
     "contest_id": 1315,
     "language": "Java 8",
