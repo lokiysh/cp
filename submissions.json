@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF71708119": {
+    "contest_id": 1315,
+    "language": "Java 8",
+    "path": "codeforces/1315/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dead Pixel",
+    "problem_url": "https://codeforces.com/contest/1315/problem/A",
+    "submission_id": "CF71708119",
+    "submission_url": "https://codeforces.com/contest/1315/submission/71708119",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/23/2020 22:02"
+  },
   "CF71713919": {
     "contest_id": 1315,
     "language": "Java 8",
