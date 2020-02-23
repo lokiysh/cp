@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF71713919": {
+    "contest_id": 1315,
+    "language": "Java 8",
+    "path": "codeforces/1315/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Recommendations",
+    "problem_url": "https://codeforces.com/contest/1315/problem/D",
+    "submission_id": "CF71713919",
+    "submission_url": "https://codeforces.com/contest/1315/submission/71713919",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Feb/23/2020 22:33"
+  },
   "CF72170344": {
     "contest_id": 1321,
     "language": "Java 8",
