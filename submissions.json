@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72183433": {
+    "contest_id": 1321,
+    "language": "Java 8",
+    "path": "codeforces/1321/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Journey Planning",
+    "problem_url": "https://codeforces.com/contest/1321/problem/B",
+    "submission_id": "CF72183433",
+    "submission_url": "https://codeforces.com/contest/1321/submission/72183433",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Mar/01/2020 19:30"
+  },
   "CF72325870": {
     "contest_id": 1305,
     "language": "Java 8",
