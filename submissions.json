@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72179103": {
+    "contest_id": 1321,
+    "language": "Java 8",
+    "path": "codeforces/1321/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Contest for Robots",
+    "problem_url": "https://codeforces.com/contest/1321/problem/A",
+    "submission_id": "CF72179103",
+    "submission_url": "https://codeforces.com/contest/1321/submission/72179103",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Mar/01/2020 19:16"
+  },
   "CF72183433": {
     "contest_id": 1321,
     "language": "Java 8",
