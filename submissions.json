@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72170344": {
+    "contest_id": 1321,
+    "language": "Java 8",
+    "path": "codeforces/1321/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Remove Adjacent",
+    "problem_url": "https://codeforces.com/contest/1321/problem/C",
+    "submission_id": "CF72170344",
+    "submission_url": "https://codeforces.com/contest/1321/submission/72170344",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Mar/01/2020 18:57"
+  },
   "CF72179103": {
     "contest_id": 1321,
     "language": "Java 8",
