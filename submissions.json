@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72355872": {
+    "contest_id": 1305,
+    "language": "Java 8",
+    "path": "codeforces/1305/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Kuroni and the Celebration",
+    "problem_url": "https://codeforces.com/contest/1305/problem/D",
+    "submission_id": "CF72355872",
+    "submission_url": "https://codeforces.com/contest/1305/submission/72355872",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "interactive",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Mar/03/2020 22:16"
+  },
   "CF72429738": {
     "contest_id": 1316,
     "language": "Java 8",
