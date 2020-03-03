@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72331088": {
+    "contest_id": 1305,
+    "language": "Java 8",
+    "path": "codeforces/1305/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kuroni and the Gifts",
+    "problem_url": "https://codeforces.com/contest/1305/problem/A",
+    "submission_id": "CF72331088",
+    "submission_url": "https://codeforces.com/contest/1305/submission/72331088",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2020 20:53"
+  },
   "CF72355872": {
     "contest_id": 1305,
     "language": "Java 8",
