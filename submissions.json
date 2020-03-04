@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72430546": {
+    "contest_id": 1316,
+    "language": "Java 8",
+    "path": "codeforces/1316/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Grade Allocation",
+    "problem_url": "https://codeforces.com/contest/1316/problem/A",
+    "submission_id": "CF72430546",
+    "submission_url": "https://codeforces.com/contest/1316/submission/72430546",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/04/2020 20:21"
+  },
   "CF72458093": {
     "contest_id": 1316,
     "language": "Java 8",
