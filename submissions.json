@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72465856": {
+    "contest_id": 1316,
+    "language": "Java 8",
+    "path": "codeforces/1316/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Primitive Primes",
+    "problem_url": "https://codeforces.com/contest/1316/problem/C",
+    "submission_id": "CF72465856",
+    "submission_url": "https://codeforces.com/contest/1316/submission/72465856",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "ternary search",
+      "*1800"
+    ],
+    "timestamp": "Mar/05/2020 00:30"
+  },
   "CF72631958": {
     "contest_id": 1323,
     "language": "Java 8",
