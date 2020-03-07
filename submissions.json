@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72631958": {
+    "contest_id": 1323,
+    "language": "Java 8",
+    "path": "codeforces/1323/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unusual Competitions",
+    "problem_url": "https://codeforces.com/contest/1323/problem/C",
+    "submission_id": "CF72631958",
+    "submission_url": "https://codeforces.com/contest/1323/submission/72631958",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Mar/07/2020 15:14"
+  },
   "CF72634174": {
     "contest_id": 1323,
     "language": "Java 8",
