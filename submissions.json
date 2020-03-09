@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72829578": {
+    "contest_id": 1312,
+    "language": "Java 8",
+    "path": "codeforces/1312/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Count the Arrays",
+    "problem_url": "https://codeforces.com/contest/1312/problem/D",
+    "submission_id": "CF72829578",
+    "submission_url": "https://codeforces.com/contest/1312/submission/72829578",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Mar/09/2020 21:26"
+  },
   "CF72884508": {
     "contest_id": 1312,
     "language": "Java 8",
