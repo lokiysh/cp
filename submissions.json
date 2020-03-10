@@ -250,6 +250,27 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF72884508": {
+    "contest_id": 1312,
+    "language": "Java 8",
+    "path": "codeforces/1312/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Adding Powers",
+    "problem_url": "https://codeforces.com/contest/1312/problem/C",
+    "submission_id": "CF72884508",
+    "submission_url": "https://codeforces.com/contest/1312/submission/72884508",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "ternary search",
+      "*1400"
+    ],
+    "timestamp": "Mar/10/2020 15:49"
+  },
   "CF73225612": {
     "contest_id": 1325,
     "language": "Java 8",
