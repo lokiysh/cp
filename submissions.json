@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF73248491": {
+    "contest_id": 1325,
+    "language": "Java 8",
+    "path": "codeforces/1325/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ehab and Path-etic MEXs",
+    "problem_url": "https://codeforces.com/contest/1325/problem/C",
+    "submission_id": "CF73248491",
+    "submission_url": "https://codeforces.com/contest/1325/submission/73248491",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Mar/14/2020 20:48"
+  },
   "CF73256812": {
     "contest_id": 1325,
     "language": "Java 8",
