@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF74075439": {
+    "contest_id": 1327,
+    "language": "Java 8",
+    "path": "codeforces/1327/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game with Chips",
+    "problem_url": "https://codeforces.com/contest/1327/problem/C",
+    "submission_id": "CF74075439",
+    "submission_url": "https://codeforces.com/contest/1327/submission/74075439",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Mar/23/2020 20:34"
+  },
   "CF74939615": {
     "contest_id": 1332,
     "language": "Java 8",
