@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF74051957": {
+    "contest_id": 1327,
+    "language": "Java 8",
+    "path": "codeforces/1327/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Odd Integers",
+    "problem_url": "https://codeforces.com/contest/1327/problem/A",
+    "submission_id": "CF74051957",
+    "submission_url": "https://codeforces.com/contest/1327/submission/74051957",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/23/2020 20:10"
+  },
   "CF74063302": {
     "contest_id": 1327,
     "language": "Java 8",
