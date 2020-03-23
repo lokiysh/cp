@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF74063302": {
+    "contest_id": 1327,
+    "language": "Java 8",
+    "path": "codeforces/1327/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Princesses and Princes",
+    "problem_url": "https://codeforces.com/contest/1327/problem/B",
+    "submission_id": "CF74063302",
+    "submission_url": "https://codeforces.com/contest/1327/submission/74063302",
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Mar/23/2020 20:20"
+  },
   "CF74075439": {
     "contest_id": 1327,
     "language": "Java 8",
