@@ -250,6 +250,26 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF74948920": {
+    "contest_id": 1332,
+    "language": "Java 8",
+    "path": "codeforces/1332/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Composite Coloring",
+    "problem_url": "https://codeforces.com/contest/1332/problem/B",
+    "submission_id": "CF74948920",
+    "submission_url": "https://codeforces.com/contest/1332/submission/74948920",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Mar/31/2020 19:44"
+  },
   "CF74958690": {
     "contest_id": 1332,
     "language": "Java 8",
