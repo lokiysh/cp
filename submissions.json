@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF74958690": {
+    "contest_id": 1332,
+    "language": "Java 8",
+    "path": "codeforces/1332/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exercising Walk",
+    "problem_url": "https://codeforces.com/contest/1332/problem/A",
+    "submission_id": "CF74958690",
+    "submission_url": "https://codeforces.com/contest/1332/submission/74958690",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/31/2020 20:01"
+  },
   "CF74977530": {
     "contest_id": 1332,
     "language": "Java 8",
