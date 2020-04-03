@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF75389845": {
+    "contest_id": 1330,
+    "language": "Java 8",
+    "path": "codeforces/1330/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dreamoon and Ranking Collection",
+    "problem_url": "https://codeforces.com/contest/1330/problem/A",
+    "submission_id": "CF75389845",
+    "submission_url": "https://codeforces.com/contest/1330/submission/75389845",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/03/2020 21:12"
+  },
   "CF75403699": {
     "contest_id": 1330,
     "language": "Java 8",
