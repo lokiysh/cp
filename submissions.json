@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF76141342": {
+    "contest_id": 1334,
+    "language": "Java 8",
+    "path": "codeforces/1334/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Circle of Monsters",
+    "problem_url": "https://codeforces.com/contest/1334/problem/C",
+    "submission_id": "CF76141342",
+    "submission_url": "https://codeforces.com/contest/1334/submission/76141342",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Apr/10/2020 20:47"
+  },
   "CF76169695": {
     "contest_id": 1334,
     "language": "Java 8",
