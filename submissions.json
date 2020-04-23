@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF77812716": {
+    "contest_id": 1341,
+    "language": "Java 8",
+    "path": "codeforces/1341/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nastya and Rice",
+    "problem_url": "https://codeforces.com/contest/1341/problem/A",
+    "submission_id": "CF77812716",
+    "submission_url": "https://codeforces.com/contest/1341/submission/77812716",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/23/2020 21:12"
+  },
   "CF77835688": {
     "contest_id": 1341,
     "language": "Java 8",
