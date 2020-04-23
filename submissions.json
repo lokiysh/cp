@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF77835688": {
+    "contest_id": 1341,
+    "language": "Java 8",
+    "path": "codeforces/1341/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nastya and Scoreboard",
+    "problem_url": "https://codeforces.com/contest/1341/problem/D",
+    "submission_id": "CF77835688",
+    "submission_url": "https://codeforces.com/contest/1341/submission/77835688",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Apr/23/2020 22:01"
+  },
   "CF79154831": {
     "contest_id": 1345,
     "language": "Java 8",
