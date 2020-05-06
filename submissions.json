@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF79176724": {
+    "contest_id": 1345,
+    "language": "Java 8",
+    "path": "codeforces/1345/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hilbert's Hotel",
+    "problem_url": "https://codeforces.com/contest/1345/problem/C",
+    "submission_id": "CF79176724",
+    "submission_url": "https://codeforces.com/contest/1345/submission/79176724",
+    "tags": [
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/06/2020 20:48"
+  },
   "CF79862659": {
     "contest_id": 1350,
     "language": "Java 8",
