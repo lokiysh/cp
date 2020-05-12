@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF79862659": {
+    "contest_id": 1350,
+    "language": "Java 8",
+    "path": "codeforces/1350/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Orac and LCM",
+    "problem_url": "https://codeforces.com/contest/1350/problem/C",
+    "submission_id": "CF79862659",
+    "submission_url": "https://codeforces.com/contest/1350/submission/79862659",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/12/2020 19:22"
+  },
   "CF79873031": {
     "contest_id": 1350,
     "language": "Java 8",
