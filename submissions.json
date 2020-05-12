@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF79873031": {
+    "contest_id": 1350,
+    "language": "Java 8",
+    "path": "codeforces/1350/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Orac and Models",
+    "problem_url": "https://codeforces.com/contest/1350/problem/B",
+    "submission_id": "CF79873031",
+    "submission_url": "https://codeforces.com/contest/1350/submission/79873031",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "May/12/2020 19:47"
+  },
   "CF79876220": {
     "contest_id": 1350,
     "language": "Java 8",
