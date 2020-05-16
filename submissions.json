@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF80336916": {
+    "contest_id": 1355,
+    "language": "Java 8",
+    "path": "codeforces/1355/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Game With Array",
+    "problem_url": "https://codeforces.com/contest/1355/problem/D",
+    "submission_id": "CF80336916",
+    "submission_url": "https://codeforces.com/contest/1355/submission/80336916",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/16/2020 17:49"
+  },
   "CF80344558": {
     "contest_id": 1355,
     "language": "Java 8",
