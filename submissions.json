@@ -250,6 +250,22 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF80492943": {
+    "contest_id": 1354,
+    "language": "Java 8",
+    "path": "codeforces/1354/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alarm Clock",
+    "problem_url": "https://codeforces.com/contest/1354/problem/A",
+    "submission_id": "CF80492943",
+    "submission_url": "https://codeforces.com/contest/1354/submission/80492943",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/17/2020 16:01"
+  },
   "CF80518164": {
     "contest_id": 1354,
     "language": "Java 8",

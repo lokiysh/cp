@@ -43,14 +43,12 @@ public class Main {
                 out.printLine(-1);
                 return;
             }
-//        long q = a / (c - d);
-//        a -= (c - d) * q;
-//        ans += c * q;
-//        if (a > 0) {
-//            ans += c;
-//        }
-            long q = (long) Math.ceil((double) a / (c - d));
-            ans += q * c;
+            long q = a / (c - d);
+            a -= (c - d) * q;
+            ans += c * q;
+            if (a > 0) {
+                ans += c;
+            }
             out.printLine(ans);
         }
 
