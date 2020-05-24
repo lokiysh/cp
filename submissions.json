@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF81226744": {
+    "contest_id": 1360,
+    "language": "Java 8",
+    "path": "codeforces/1360/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Buying Shovels",
+    "problem_url": "https://codeforces.com/contest/1360/problem/D",
+    "submission_id": "CF81226744",
+    "submission_url": "https://codeforces.com/contest/1360/submission/81226744",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/24/2020 19:25"
+  },
   "CF81239109": {
     "contest_id": 1360,
     "language": "Java 8",
