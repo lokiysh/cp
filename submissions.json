@@ -250,6 +250,26 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF81534875": {
+    "contest_id": 1358,
+    "language": "Java 8",
+    "path": "codeforces/1358/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Best Vacation",
+    "problem_url": "https://codeforces.com/contest/1358/problem/D",
+    "submission_id": "CF81534875",
+    "submission_url": "https://codeforces.com/contest/1358/submission/81534875",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/26/2020 21:37"
+  },
   "CF81716763": {
     "contest_id": 1359,
     "language": "Java 8",
