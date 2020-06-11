@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF83398839": {
+    "contest_id": 1366,
+    "language": "Java 8",
+    "path": "codeforces/1366/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shuffle",
+    "problem_url": "https://codeforces.com/contest/1366/problem/B",
+    "submission_id": "CF83398839",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83398839",
+    "tags": [
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jun/11/2020 20:21"
+  },
   "CF83413088": {
     "contest_id": 1366,
     "language": "Java 8",
