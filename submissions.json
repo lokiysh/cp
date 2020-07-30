@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF88522513": {
+    "contest_id": 1388,
+    "language": "Java 8",
+    "path": "codeforces/1388/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Uncle Bogdan and Country Happiness",
+    "problem_url": "https://codeforces.com/contest/1388/problem/C",
+    "submission_id": "CF88522513",
+    "submission_url": "https://codeforces.com/contest/1388/submission/88522513",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "math",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Jul/30/2020 22:03"
+  },
   "CF89410757": {
     "contest_id": 1391,
     "language": "Java 8",
