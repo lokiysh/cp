@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF89688463": {
+    "contest_id": 1395,
+    "language": "Java 8",
+    "path": "codeforces/1395/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Boboniu and Bit Operations",
+    "problem_url": "https://codeforces.com/contest/1395/problem/C",
+    "submission_id": "CF89688463",
+    "submission_url": "https://codeforces.com/contest/1395/submission/89688463",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Aug/12/2020 20:42"
+  },
   "CF89695405": {
     "contest_id": 1395,
     "language": "Java 8",
