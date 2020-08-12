@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF89659798": {
+    "contest_id": 1395,
+    "language": "Java 8",
+    "path": "codeforces/1395/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Boboniu Likes to Color Balls",
+    "problem_url": "https://codeforces.com/contest/1395/problem/A",
+    "submission_id": "CF89659798",
+    "submission_url": "https://codeforces.com/contest/1395/submission/89659798",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Aug/12/2020 20:09"
+  },
   "CF89688463": {
     "contest_id": 1395,
     "language": "Java 8",
