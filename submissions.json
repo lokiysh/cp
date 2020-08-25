@@ -250,6 +250,24 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF90934776": {
+    "contest_id": 1400,
+    "language": "Java 8",
+    "path": "codeforces/1400/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "RPG Protagonist",
+    "problem_url": "https://codeforces.com/contest/1400/problem/B",
+    "submission_id": "CF90934776",
+    "submission_url": "https://codeforces.com/contest/1400/submission/90934776",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/25/2020 20:39"
+  },
   "CF90950134": {
     "contest_id": 1400,
     "language": "Java 8",
