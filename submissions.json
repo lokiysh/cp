@@ -250,6 +250,26 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF90980888": {
+    "contest_id": 1400,
+    "language": "Java 8",
+    "path": "codeforces/1400/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Zigzags",
+    "problem_url": "https://codeforces.com/contest/1400/problem/D",
+    "submission_id": "CF90980888",
+    "submission_url": "https://codeforces.com/contest/1400/submission/90980888",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "math",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Aug/25/2020 22:01"
+  },
   "CF92032923": {
     "contest_id": 1405,
     "language": "Java 8",
