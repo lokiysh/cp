@@ -250,6 +250,27 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF92067693": {
+    "contest_id": 1405,
+    "language": "Java 8",
+    "path": "codeforces/1405/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tree Tag",
+    "problem_url": "https://codeforces.com/contest/1405/problem/D",
+    "submission_id": "CF92067693",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92067693",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "games",
+      "strings",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Sep/06/2020 21:43"
+  },
   "CF92229158": {
     "contest_id": 1407,
     "language": "Java 8",
