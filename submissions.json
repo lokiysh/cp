@@ -250,6 +250,25 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF92628887": {
+    "contest_id": 1406,
+    "language": "Java 8",
+    "path": "codeforces/1406/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Link Cut Centroids",
+    "problem_url": "https://codeforces.com/contest/1406/problem/C",
+    "submission_id": "CF92628887",
+    "submission_url": "https://codeforces.com/contest/1406/submission/92628887",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Sep/12/2020 20:47"
+  },
   "CF92635467": {
     "contest_id": 1406,
     "language": "Java 8",
