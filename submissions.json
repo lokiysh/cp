@@ -250,6 +250,23 @@
     ],
     "timestamp": "Jan/05/2021 21:38"
   },
+  "CF95865101": {
+    "contest_id": 1421,
+    "language": "Java 8",
+    "path": "codeforces/1421/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Putting Bricks in the Wall",
+    "problem_url": "https://codeforces.com/contest/1421/problem/B",
+    "submission_id": "CF95865101",
+    "submission_url": "https://codeforces.com/contest/1421/submission/95865101",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/18/2020 14:51"
+  },
   "CF95876131": {
     "contest_id": 1421,
     "language": "Java 8",
