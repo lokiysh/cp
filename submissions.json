@@ -1,0 +1,22 @@
+{
+  "CF103448804": {
+    "contest_id": 1471,
+    "language": "Java 8",
+    "path": "codeforces/1471/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Strange Definition",
+    "problem_url": "https://codeforces.com/contest/1471/problem/D",
+    "submission_id": "CF103448804",
+    "submission_url": "https://codeforces.com/contest/1471/submission/103448804",
+    "tags": [
+      "bitmasks",
+      "graphs",
+      "hashing",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Jan/05/2021 21:38"
+  }
+}
